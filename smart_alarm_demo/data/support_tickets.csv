@@ -1,0 +1,2405 @@
+﻿ticket_id,customer_id,created_date,issue_type,resolved_flag,resolution_time_hours
+1,2,2025-08-23,False Alarm,True,29.3
+2,8,2025-06-16,Sensor Issue,True,32.3
+3,8,2025-06-14,Connectivity,True,10.5
+4,9,2024-07-09,Connectivity,True,7.4
+5,17,2025-03-09,Sensor Issue,True,18.4
+6,22,2024-11-07,App/Login,True,11.9
+7,22,2024-10-01,False Alarm,True,27.6
+8,26,2025-06-11,Installation Follow-up,True,26.4
+9,29,2025-02-04,Connectivity,True,22.2
+10,32,2024-07-11,False Alarm,False,1.5
+11,32,2024-07-06,Connectivity,True,22.9
+12,37,2025-11-14,App/Login,True,27.3
+13,37,2025-10-04,App/Login,True,9.9
+14,38,2025-10-25,Installation Follow-up,True,44.8
+15,40,2025-04-22,Sensor Issue,True,19.5
+16,40,2025-05-26,Billing,True,1.1
+17,40,2025-05-18,Sensor Issue,True,27.3
+18,40,2025-05-19,App/Login,True,11.3
+19,47,2024-12-09,App/Login,True,5.6
+20,55,2025-02-17,Billing,True,16.6
+21,57,2025-04-03,False Alarm,True,20.4
+22,64,2025-12-20,Installation Follow-up,True,15.7
+23,70,2024-12-20,Sensor Issue,True,4.2
+24,70,2024-12-14,Billing,True,21.0
+25,71,2025-09-28,Sensor Issue,True,19.2
+26,73,2025-01-23,False Alarm,True,14.0
+27,75,2025-06-23,Connectivity,True,10.8
+28,76,2024-12-25,False Alarm,True,7.2
+29,78,2024-06-25,False Alarm,True,18.8
+30,79,2025-03-17,Installation Follow-up,True,13.2
+31,82,2025-01-12,Installation Follow-up,False,15.1
+32,83,2024-05-25,App/Login,True,21.9
+33,83,2024-05-09,Billing,True,9.7
+34,85,2025-04-23,App/Login,True,9.2
+35,88,2024-09-22,Sensor Issue,True,13.2
+36,100,2024-05-30,App/Login,True,1.0
+37,100,2024-06-05,False Alarm,True,17.2
+38,102,2024-06-25,False Alarm,True,10.6
+39,106,2025-07-31,Billing,True,18.1
+40,110,2025-07-22,Installation Follow-up,True,27.8
+41,110,2025-07-08,Sensor Issue,True,27.2
+42,112,2025-07-28,Connectivity,True,23.1
+43,117,2024-03-05,App/Login,True,11.8
+44,117,2024-03-08,Billing,True,1.0
+45,117,2024-03-13,Sensor Issue,True,22.6
+46,118,2024-05-10,App/Login,True,33.2
+47,119,2024-07-29,Sensor Issue,True,10.7
+48,119,2024-08-01,Installation Follow-up,True,31.7
+49,121,2025-01-01,Sensor Issue,True,23.7
+50,121,2024-12-02,Sensor Issue,True,18.9
+51,125,2025-10-13,Installation Follow-up,True,11.5
+52,130,2025-04-15,App/Login,True,12.1
+53,131,2025-04-08,App/Login,True,30.9
+54,133,2024-04-18,Installation Follow-up,True,38.5
+55,134,2025-03-03,False Alarm,True,16.7
+56,138,2024-02-24,Installation Follow-up,True,8.6
+57,138,2024-02-18,False Alarm,True,31.0
+58,142,2024-06-28,Connectivity,True,19.6
+59,142,2024-07-22,Installation Follow-up,True,35.7
+60,143,2024-09-18,Connectivity,True,22.5
+61,145,2026-01-31,Installation Follow-up,True,20.5
+62,145,2025-12-26,App/Login,True,35.1
+63,145,2026-01-04,Installation Follow-up,True,19.1
+64,157,2024-04-22,Sensor Issue,True,22.2
+65,157,2024-04-27,App/Login,True,18.8
+66,157,2024-05-05,False Alarm,True,9.7
+67,165,2024-12-22,False Alarm,True,27.3
+68,165,2024-11-29,Sensor Issue,True,15.4
+69,165,2024-12-08,Billing,True,28.0
+70,165,2024-11-11,Sensor Issue,True,14.5
+71,166,2025-09-15,Connectivity,True,8.8
+72,171,2024-04-30,Connectivity,False,21.4
+73,172,2024-04-15,Sensor Issue,True,10.3
+74,176,2024-12-06,App/Login,True,6.4
+75,177,2025-06-09,Installation Follow-up,True,22.7
+76,180,2025-02-09,False Alarm,True,4.3
+77,180,2025-02-02,Installation Follow-up,True,5.5
+78,180,2025-02-16,App/Login,True,34.4
+79,183,2025-01-23,App/Login,True,37.8
+80,191,2025-06-30,Installation Follow-up,True,28.6
+81,191,2025-06-24,App/Login,False,14.5
+82,192,2025-04-13,Sensor Issue,True,24.2
+83,194,2024-10-18,Installation Follow-up,True,13.4
+84,198,2024-03-31,Sensor Issue,True,10.3
+85,205,2025-01-29,Billing,True,7.4
+86,208,2025-12-24,Installation Follow-up,True,12.3
+87,208,2026-01-15,Installation Follow-up,True,19.4
+88,208,2026-01-07,False Alarm,True,6.0
+89,209,2024-07-18,Sensor Issue,True,17.2
+90,209,2024-07-14,Sensor Issue,True,10.1
+91,209,2024-07-25,Installation Follow-up,True,6.8
+92,209,2024-09-06,Sensor Issue,False,41.4
+93,210,2025-09-15,False Alarm,True,21.9
+94,217,2024-04-03,App/Login,True,26.3
+95,218,2024-04-08,Sensor Issue,True,30.8
+96,221,2024-04-13,False Alarm,True,7.6
+97,223,2025-07-17,Installation Follow-up,True,17.1
+98,225,2025-06-16,False Alarm,True,18.1
+99,232,2025-09-21,App/Login,True,29.8
+100,232,2025-11-10,App/Login,True,36.2
+101,232,2025-09-18,Installation Follow-up,True,5.0
+102,232,2025-10-01,App/Login,True,20.3
+103,233,2024-02-20,Installation Follow-up,True,24.2
+104,235,2025-01-20,Sensor Issue,True,6.1
+105,235,2025-02-12,False Alarm,True,24.3
+106,237,2025-05-13,Connectivity,True,1.0
+107,237,2025-06-06,App/Login,True,21.1
+108,238,2024-12-17,False Alarm,True,3.2
+109,241,2024-05-18,False Alarm,True,29.0
+110,251,2024-06-21,Connectivity,False,30.7
+111,257,2025-05-17,Sensor Issue,True,17.5
+112,259,2024-05-18,Connectivity,True,17.7
+113,259,2024-05-10,False Alarm,True,16.7
+114,260,2025-03-24,App/Login,True,18.1
+115,260,2025-04-02,Billing,True,17.1
+116,262,2024-05-21,False Alarm,True,41.6
+117,263,2024-08-09,Installation Follow-up,True,21.5
+118,263,2024-09-12,False Alarm,True,24.2
+119,276,2025-01-17,Billing,True,3.4
+120,277,2024-12-12,False Alarm,True,23.6
+121,278,2025-08-08,Installation Follow-up,False,13.0
+122,279,2024-04-02,Installation Follow-up,True,24.2
+123,279,2024-03-25,Installation Follow-up,True,1.0
+124,283,2025-05-30,Installation Follow-up,True,8.9
+125,283,2025-05-13,App/Login,True,15.8
+126,283,2025-05-12,App/Login,True,10.2
+127,284,2025-02-07,Billing,True,23.8
+128,284,2025-01-26,Sensor Issue,True,8.0
+129,290,2025-01-05,Installation Follow-up,True,18.6
+130,296,2025-02-28,Sensor Issue,True,9.5
+131,296,2025-02-10,Billing,True,16.3
+132,296,2025-02-25,Connectivity,True,13.1
+133,296,2025-02-20,Connectivity,True,16.8
+134,299,2024-09-14,False Alarm,True,16.0
+135,310,2024-05-03,Billing,True,21.1
+136,310,2024-05-12,Sensor Issue,True,8.6
+137,310,2024-05-19,Connectivity,True,31.8
+138,310,2024-04-15,False Alarm,True,29.7
+139,312,2025-05-17,App/Login,True,25.9
+140,315,2024-06-27,Billing,True,27.7
+141,316,2025-06-20,Sensor Issue,True,21.9
+142,316,2025-04-27,App/Login,True,4.9
+143,319,2026-01-04,Sensor Issue,True,18.7
+144,325,2026-01-26,Sensor Issue,True,18.3
+145,325,2026-01-08,Installation Follow-up,True,14.8
+146,325,2025-12-17,Installation Follow-up,True,18.8
+147,330,2025-03-19,App/Login,True,16.0
+148,330,2025-02-21,Billing,True,30.7
+149,330,2025-03-28,Sensor Issue,True,28.3
+150,331,2025-03-04,Connectivity,True,11.3
+151,331,2025-02-11,Installation Follow-up,True,22.3
+152,333,2024-10-02,App/Login,True,20.5
+153,338,2024-09-08,False Alarm,True,19.7
+154,338,2024-09-05,Installation Follow-up,True,25.6
+155,338,2024-08-29,Sensor Issue,True,12.6
+156,338,2024-09-23,Installation Follow-up,True,14.3
+157,342,2024-09-19,Installation Follow-up,True,12.5
+158,343,2025-04-04,Sensor Issue,True,16.6
+159,346,2024-09-01,Sensor Issue,True,10.7
+160,347,2026-02-12,Sensor Issue,False,21.6
+161,347,2025-12-25,Billing,True,18.0
+162,351,2025-02-21,Sensor Issue,True,14.8
+163,351,2025-02-26,Billing,True,11.1
+164,354,2024-11-28,False Alarm,True,26.9
+165,356,2026-01-27,Installation Follow-up,True,8.0
+166,358,2025-11-11,Connectivity,True,4.5
+167,359,2024-03-08,Sensor Issue,True,26.5
+168,363,2024-07-30,Billing,True,21.8
+169,372,2025-05-27,Installation Follow-up,True,20.5
+170,376,2024-05-09,False Alarm,True,16.7
+171,377,2025-07-21,False Alarm,True,18.4
+172,377,2025-08-16,False Alarm,True,19.0
+173,378,2025-07-22,App/Login,True,10.8
+174,378,2025-07-05,Connectivity,True,24.6
+175,379,2024-11-09,Connectivity,True,12.1
+176,379,2024-11-02,Sensor Issue,True,20.3
+177,385,2024-01-28,Sensor Issue,True,3.6
+178,385,2024-01-28,False Alarm,True,11.5
+179,385,2024-03-20,Installation Follow-up,True,21.7
+180,387,2024-03-12,Connectivity,True,14.1
+181,391,2025-08-20,Sensor Issue,True,23.7
+182,393,2024-10-14,App/Login,True,28.0
+183,393,2024-09-30,App/Login,True,17.2
+184,396,2025-10-20,App/Login,True,24.6
+185,396,2025-11-01,Connectivity,True,17.5
+186,396,2025-11-19,Billing,True,30.9
+187,396,2025-10-26,Billing,True,21.2
+188,402,2025-08-19,Installation Follow-up,True,24.3
+189,411,2024-06-07,False Alarm,True,20.2
+190,411,2024-05-20,Installation Follow-up,False,18.9
+191,413,2024-09-08,False Alarm,True,14.4
+192,413,2024-07-25,App/Login,True,8.1
+193,413,2024-09-13,Installation Follow-up,True,35.9
+194,413,2024-08-01,False Alarm,True,28.3
+195,415,2024-01-22,App/Login,True,15.6
+196,415,2024-02-08,Installation Follow-up,True,8.9
+197,415,2024-03-09,Connectivity,True,5.1
+198,415,2024-02-17,Billing,True,29.8
+199,423,2025-09-03,Installation Follow-up,True,41.8
+200,423,2025-08-05,Installation Follow-up,True,3.8
+201,423,2025-08-22,Installation Follow-up,True,7.7
+202,427,2025-10-16,Connectivity,True,19.0
+203,430,2025-06-12,Sensor Issue,True,19.1
+204,430,2025-06-06,Installation Follow-up,True,24.3
+205,430,2025-07-09,App/Login,True,10.8
+206,432,2025-08-02,False Alarm,True,2.2
+207,432,2025-08-06,Installation Follow-up,False,19.7
+208,432,2025-07-04,Installation Follow-up,True,20.4
+209,432,2025-08-02,False Alarm,True,11.9
+210,446,2025-06-20,Installation Follow-up,True,32.6
+211,450,2024-08-11,App/Login,True,18.6
+212,453,2025-01-07,Sensor Issue,True,16.7
+213,461,2025-06-26,Billing,True,10.0
+214,461,2025-07-04,Installation Follow-up,True,1.0
+215,464,2024-11-30,App/Login,True,1.0
+216,469,2024-05-12,Sensor Issue,True,12.0
+217,471,2025-08-08,Connectivity,True,30.6
+218,477,2025-09-29,Connectivity,True,24.9
+219,479,2025-06-16,Connectivity,True,14.6
+220,482,2025-09-04,Connectivity,True,30.6
+221,482,2025-10-28,Sensor Issue,True,14.7
+222,483,2024-08-14,Connectivity,True,20.6
+223,487,2024-09-26,App/Login,True,16.7
+224,489,2025-08-19,Connectivity,True,11.3
+225,489,2025-07-23,Connectivity,True,16.6
+226,490,2025-04-01,False Alarm,True,26.4
+227,498,2024-10-26,Sensor Issue,True,10.8
+228,499,2025-11-16,Installation Follow-up,True,21.0
+229,500,2024-11-11,Connectivity,True,3.1
+230,503,2026-01-20,Sensor Issue,True,9.8
+231,504,2025-11-05,Connectivity,True,11.8
+232,508,2024-08-08,Sensor Issue,True,3.7
+233,511,2026-02-10,False Alarm,True,5.7
+234,511,2026-01-07,Installation Follow-up,True,5.7
+235,511,2026-02-13,False Alarm,True,15.4
+236,519,2025-01-23,Connectivity,True,25.4
+237,519,2024-12-14,App/Login,True,21.5
+238,523,2024-06-14,App/Login,True,2.8
+239,527,2025-11-13,False Alarm,True,17.7
+240,531,2025-03-31,False Alarm,True,20.9
+241,531,2025-05-08,Installation Follow-up,True,15.9
+242,536,2024-06-19,Sensor Issue,True,30.2
+243,538,2024-04-07,App/Login,True,15.7
+244,542,2024-04-08,Sensor Issue,True,11.7
+245,544,2024-06-24,Installation Follow-up,True,14.9
+246,545,2025-09-18,Connectivity,True,11.6
+247,545,2025-10-17,Installation Follow-up,True,5.3
+248,549,2025-01-26,Sensor Issue,True,12.2
+249,549,2025-02-13,Sensor Issue,True,1.0
+250,549,2025-01-14,Sensor Issue,True,14.1
+251,554,2024-10-02,Installation Follow-up,True,27.1
+252,555,2026-02-16,App/Login,True,8.9
+253,557,2025-06-27,App/Login,False,26.2
+254,557,2025-08-02,Sensor Issue,True,2.4
+255,572,2024-11-09,False Alarm,True,13.9
+256,578,2025-02-25,Billing,False,26.8
+257,581,2024-05-08,False Alarm,True,23.2
+258,581,2024-04-03,Sensor Issue,True,8.0
+259,582,2025-09-07,App/Login,True,20.2
+260,584,2024-02-24,Sensor Issue,True,30.8
+261,584,2024-02-24,Connectivity,True,27.0
+262,588,2024-03-18,False Alarm,False,26.6
+263,592,2025-12-01,App/Login,True,15.3
+264,592,2025-12-08,Connectivity,True,6.3
+265,593,2024-07-18,Billing,True,2.5
+266,593,2024-08-09,False Alarm,True,16.7
+267,593,2024-08-23,Billing,True,21.3
+268,593,2024-07-01,App/Login,True,30.8
+269,599,2025-04-05,Connectivity,True,17.6
+270,599,2025-04-18,Connectivity,True,24.1
+271,600,2025-05-13,Installation Follow-up,True,12.2
+272,604,2024-05-27,Installation Follow-up,True,10.9
+273,610,2025-11-03,App/Login,True,16.1
+274,610,2025-10-20,Installation Follow-up,True,15.8
+275,615,2025-06-04,Connectivity,True,12.5
+276,615,2025-05-29,App/Login,True,28.8
+277,616,2025-04-16,Connectivity,True,43.1
+278,618,2024-08-22,Installation Follow-up,True,34.2
+279,618,2024-08-29,False Alarm,True,16.1
+280,620,2024-04-22,Sensor Issue,True,15.2
+281,622,2025-01-07,False Alarm,True,30.8
+282,622,2025-01-18,Sensor Issue,True,23.8
+283,623,2024-06-08,Installation Follow-up,True,23.8
+284,623,2024-05-05,App/Login,True,5.2
+285,626,2024-07-14,False Alarm,True,19.4
+286,626,2024-08-09,Installation Follow-up,True,15.3
+287,631,2025-06-27,App/Login,False,3.1
+288,637,2024-07-14,False Alarm,False,15.8
+289,637,2024-07-02,App/Login,True,19.1
+290,637,2024-07-11,App/Login,True,23.8
+291,637,2024-07-16,App/Login,True,20.8
+292,641,2025-05-31,False Alarm,True,15.2
+293,641,2025-05-11,App/Login,True,16.1
+294,641,2025-05-26,App/Login,True,19.3
+295,648,2025-03-17,Installation Follow-up,True,8.6
+296,651,2025-01-28,Installation Follow-up,True,32.8
+297,652,2025-06-07,Sensor Issue,True,15.0
+298,652,2025-06-19,App/Login,True,7.5
+299,659,2024-03-08,Sensor Issue,True,12.5
+300,659,2024-03-30,Connectivity,True,1.0
+301,660,2024-08-29,Sensor Issue,True,23.2
+302,663,2024-02-03,Sensor Issue,True,18.6
+303,663,2024-03-15,App/Login,True,12.0
+304,664,2024-06-18,Connectivity,False,17.8
+305,664,2024-06-28,Installation Follow-up,False,13.4
+306,666,2025-06-13,False Alarm,True,17.3
+307,672,2025-04-08,App/Login,True,12.5
+308,682,2024-04-13,Sensor Issue,True,8.1
+309,682,2024-05-25,False Alarm,True,11.5
+310,682,2024-06-04,Connectivity,True,17.1
+311,684,2025-12-30,Sensor Issue,True,16.0
+312,684,2026-01-25,Sensor Issue,True,7.4
+313,684,2025-12-22,Installation Follow-up,True,25.9
+314,687,2024-12-02,Sensor Issue,True,9.2
+315,687,2024-12-21,Sensor Issue,True,27.1
+316,687,2024-11-23,Sensor Issue,True,15.6
+317,687,2024-11-10,Sensor Issue,True,21.9
+318,691,2025-12-31,Billing,True,21.0
+319,691,2026-01-19,Sensor Issue,True,24.1
+320,691,2026-01-18,Billing,False,35.0
+321,695,2024-03-29,False Alarm,True,15.9
+322,695,2024-04-24,Billing,True,11.7
+323,695,2024-03-15,Installation Follow-up,True,19.8
+324,695,2024-04-12,App/Login,True,34.0
+325,697,2025-07-24,Sensor Issue,False,1.0
+326,697,2025-06-14,Sensor Issue,True,11.1
+327,697,2025-07-02,Connectivity,False,16.2
+328,698,2025-04-19,Sensor Issue,True,24.8
+329,705,2024-04-09,Sensor Issue,True,18.5
+330,712,2025-01-30,Connectivity,True,22.0
+331,718,2025-01-30,False Alarm,True,16.4
+332,721,2024-04-28,Connectivity,True,27.0
+333,721,2024-05-19,App/Login,True,33.8
+334,721,2024-04-14,Connectivity,True,14.3
+335,721,2024-06-05,Sensor Issue,True,27.4
+336,723,2025-10-31,False Alarm,True,23.2
+337,723,2025-10-29,Sensor Issue,True,20.4
+338,723,2025-10-05,False Alarm,True,31.1
+339,726,2024-04-02,Installation Follow-up,True,25.2
+340,728,2024-03-20,Connectivity,True,22.6
+341,733,2025-12-28,False Alarm,True,27.0
+342,733,2025-12-18,False Alarm,True,16.1
+343,733,2025-12-08,Sensor Issue,True,23.8
+344,735,2024-07-15,Installation Follow-up,True,15.4
+345,735,2024-06-24,Installation Follow-up,True,15.7
+346,735,2024-06-04,Billing,True,35.3
+347,737,2025-07-08,Installation Follow-up,True,24.7
+348,737,2025-07-09,Connectivity,True,29.8
+349,740,2025-11-25,Sensor Issue,True,15.4
+350,740,2025-11-21,Installation Follow-up,True,21.4
+351,743,2025-05-05,Installation Follow-up,True,36.1
+352,745,2025-08-21,Sensor Issue,True,27.7
+353,746,2024-09-23,False Alarm,True,14.7
+354,749,2024-09-28,Installation Follow-up,True,23.3
+355,749,2024-10-04,False Alarm,False,26.2
+356,753,2024-04-27,Installation Follow-up,True,21.0
+357,756,2025-01-07,False Alarm,True,20.3
+358,756,2025-01-15,Connectivity,True,22.1
+359,759,2024-05-03,Sensor Issue,True,18.0
+360,767,2025-05-06,False Alarm,True,14.0
+361,770,2024-10-29,Sensor Issue,True,33.8
+362,770,2024-11-23,Installation Follow-up,True,13.2
+363,776,2025-12-08,Sensor Issue,True,12.5
+364,777,2024-12-06,False Alarm,False,18.4
+365,779,2024-08-13,Billing,True,24.9
+366,780,2025-11-12,Connectivity,True,16.1
+367,784,2024-04-04,Installation Follow-up,True,21.8
+368,784,2024-04-30,Connectivity,True,10.6
+369,787,2024-03-17,False Alarm,True,38.9
+370,787,2024-02-11,False Alarm,True,29.1
+371,788,2025-05-27,Installation Follow-up,True,24.0
+372,789,2025-03-13,Installation Follow-up,True,11.4
+373,791,2024-04-12,Sensor Issue,True,16.1
+374,797,2025-12-16,App/Login,True,37.5
+375,798,2025-01-15,Billing,False,32.3
+376,798,2025-01-18,App/Login,True,18.2
+377,805,2025-08-08,Sensor Issue,True,4.5
+378,805,2025-07-05,Installation Follow-up,True,4.8
+379,806,2025-08-31,False Alarm,True,12.5
+380,807,2025-02-24,App/Login,True,7.3
+381,807,2025-02-23,False Alarm,True,26.1
+382,807,2025-03-04,Installation Follow-up,True,20.6
+383,809,2024-11-25,Sensor Issue,True,20.5
+384,809,2024-11-21,Sensor Issue,True,32.7
+385,812,2025-12-01,Billing,True,24.6
+386,812,2025-11-03,Connectivity,True,11.7
+387,812,2025-11-25,Sensor Issue,True,20.4
+388,812,2025-10-13,Sensor Issue,True,27.2
+389,819,2025-05-08,Connectivity,True,10.4
+390,820,2026-02-06,App/Login,True,29.7
+391,824,2025-04-25,False Alarm,True,11.1
+392,833,2024-12-24,False Alarm,True,6.2
+393,833,2024-12-12,False Alarm,True,10.5
+394,833,2024-12-28,Sensor Issue,True,25.2
+395,833,2024-12-25,Billing,True,28.0
+396,838,2024-07-02,Sensor Issue,False,7.8
+397,838,2024-07-16,False Alarm,False,29.0
+398,838,2024-06-22,Sensor Issue,True,18.0
+399,839,2024-03-02,Sensor Issue,True,12.3
+400,846,2024-01-04,Installation Follow-up,True,19.3
+401,851,2026-01-10,Installation Follow-up,True,22.3
+402,852,2025-09-20,Sensor Issue,True,13.1
+403,854,2024-07-20,App/Login,True,36.6
+404,854,2024-07-23,Connectivity,True,17.6
+405,854,2024-07-02,Connectivity,True,13.0
+406,858,2024-03-16,False Alarm,True,20.3
+407,858,2024-04-01,Sensor Issue,True,21.8
+408,861,2026-02-01,Sensor Issue,True,4.2
+409,861,2026-01-28,Sensor Issue,True,16.8
+410,861,2025-12-16,Sensor Issue,True,11.8
+411,861,2026-01-09,Billing,False,18.9
+412,863,2024-05-14,Installation Follow-up,True,29.6
+413,864,2025-08-16,Sensor Issue,True,15.1
+414,864,2025-08-25,Connectivity,False,11.1
+415,866,2025-06-19,Installation Follow-up,True,25.9
+416,866,2025-06-30,Installation Follow-up,False,24.4
+417,866,2025-07-07,Installation Follow-up,False,20.2
+418,866,2025-06-22,Installation Follow-up,True,33.9
+419,867,2025-10-17,Installation Follow-up,True,4.0
+420,877,2025-02-05,Installation Follow-up,False,19.9
+421,878,2025-08-02,Sensor Issue,True,8.0
+422,879,2025-03-03,Installation Follow-up,True,17.5
+423,879,2025-03-22,Billing,True,20.6
+424,880,2025-04-17,Sensor Issue,True,22.2
+425,880,2025-05-11,Sensor Issue,True,23.8
+426,884,2024-05-26,Installation Follow-up,True,27.3
+427,890,2024-07-28,Sensor Issue,True,5.8
+428,894,2026-01-31,Sensor Issue,True,1.0
+429,898,2024-02-29,False Alarm,True,18.8
+430,898,2024-02-18,Billing,True,8.1
+431,901,2024-01-18,Installation Follow-up,True,16.0
+432,902,2024-03-24,False Alarm,True,3.0
+433,905,2024-12-30,False Alarm,False,16.5
+434,911,2025-07-28,Billing,True,11.8
+435,913,2024-11-27,Sensor Issue,True,27.4
+436,913,2024-10-24,Sensor Issue,True,14.9
+437,914,2026-02-11,App/Login,True,1.0
+438,914,2026-02-03,Connectivity,True,33.4
+439,920,2025-05-26,Sensor Issue,True,11.3
+440,922,2025-03-20,False Alarm,True,14.2
+441,922,2025-03-13,Sensor Issue,True,10.7
+442,922,2025-04-19,False Alarm,True,26.1
+443,922,2025-04-03,Sensor Issue,True,3.6
+444,924,2024-06-06,Installation Follow-up,True,30.9
+445,924,2024-05-26,App/Login,True,7.3
+446,927,2025-02-01,Billing,True,26.9
+447,928,2024-10-04,False Alarm,True,7.6
+448,938,2024-05-21,Sensor Issue,False,9.6
+449,943,2025-11-19,Installation Follow-up,True,3.0
+450,944,2025-01-10,App/Login,True,24.4
+451,947,2026-01-29,App/Login,True,21.3
+452,948,2024-04-29,Connectivity,True,3.2
+453,948,2024-05-09,Sensor Issue,True,8.3
+454,948,2024-04-17,Installation Follow-up,True,12.9
+455,954,2024-11-30,App/Login,True,22.8
+456,960,2024-11-29,Connectivity,True,17.9
+457,960,2024-11-13,False Alarm,True,28.4
+458,971,2024-08-30,Installation Follow-up,True,9.6
+459,971,2024-08-15,Installation Follow-up,True,7.7
+460,971,2024-09-10,Sensor Issue,True,26.0
+461,971,2024-09-04,App/Login,True,30.3
+462,972,2024-11-17,Installation Follow-up,True,19.1
+463,972,2024-12-29,App/Login,True,20.2
+464,977,2024-04-15,Sensor Issue,True,19.2
+465,977,2024-04-12,App/Login,True,25.8
+466,993,2024-06-15,App/Login,True,13.3
+467,997,2025-03-08,App/Login,True,4.6
+468,997,2025-02-04,App/Login,True,24.6
+469,997,2025-01-20,Sensor Issue,True,16.1
+470,1002,2025-06-25,Installation Follow-up,True,10.6
+471,1003,2025-03-17,App/Login,True,30.2
+472,1003,2025-02-14,Sensor Issue,True,10.6
+473,1004,2025-11-14,False Alarm,True,12.1
+474,1005,2024-04-05,App/Login,True,15.7
+475,1005,2024-05-17,Installation Follow-up,True,12.8
+476,1009,2025-07-28,Billing,True,15.8
+477,1010,2025-02-10,Billing,True,43.0
+478,1010,2025-02-15,Billing,True,16.3
+479,1010,2025-03-14,Sensor Issue,True,1.8
+480,1014,2024-08-18,Billing,True,13.1
+481,1014,2024-09-23,Connectivity,True,21.8
+482,1014,2024-09-15,App/Login,True,7.6
+483,1016,2025-10-22,Connectivity,True,11.0
+484,1019,2024-03-20,False Alarm,True,16.5
+485,1024,2025-09-26,App/Login,True,2.8
+486,1035,2024-03-29,Billing,True,26.7
+487,1035,2024-02-27,Installation Follow-up,True,8.6
+488,1037,2025-12-03,App/Login,True,28.6
+489,1037,2025-11-08,Connectivity,True,15.2
+490,1037,2025-11-22,Billing,True,17.4
+491,1037,2025-11-08,Connectivity,True,18.2
+492,1055,2024-04-15,Installation Follow-up,True,1.6
+493,1059,2024-12-19,Installation Follow-up,True,15.0
+494,1059,2024-12-14,App/Login,True,7.7
+495,1061,2025-09-05,Sensor Issue,True,25.7
+496,1061,2025-08-20,Sensor Issue,True,16.3
+497,1065,2025-07-25,Sensor Issue,True,17.2
+498,1065,2025-08-19,False Alarm,True,19.0
+499,1065,2025-07-16,Billing,True,28.6
+500,1068,2025-04-16,Sensor Issue,True,2.4
+501,1068,2025-05-14,Sensor Issue,False,5.5
+502,1068,2025-05-11,App/Login,True,35.1
+503,1068,2025-05-22,Sensor Issue,True,38.7
+504,1076,2024-05-03,Installation Follow-up,True,17.9
+505,1076,2024-05-04,Sensor Issue,True,25.5
+506,1079,2024-11-27,Installation Follow-up,True,29.7
+507,1079,2024-11-30,Sensor Issue,True,7.7
+508,1079,2024-12-20,False Alarm,True,3.4
+509,1080,2025-10-21,Installation Follow-up,True,11.2
+510,1081,2025-11-12,Billing,True,20.7
+511,1081,2025-11-22,Installation Follow-up,True,1.0
+512,1083,2025-12-26,Connectivity,True,15.7
+513,1083,2026-01-22,Connectivity,True,23.1
+514,1083,2025-12-07,Billing,True,13.6
+515,1084,2025-04-09,Installation Follow-up,True,18.4
+516,1084,2025-03-10,False Alarm,True,14.3
+517,1086,2025-10-31,Billing,True,13.7
+518,1087,2025-09-02,Connectivity,True,12.2
+519,1094,2024-10-27,Sensor Issue,True,15.1
+520,1099,2024-03-18,Installation Follow-up,True,26.2
+521,1099,2024-02-08,False Alarm,True,17.7
+522,1100,2025-01-11,Connectivity,True,28.4
+523,1100,2024-12-05,False Alarm,True,11.6
+524,1102,2025-01-31,Sensor Issue,True,13.8
+525,1103,2025-12-08,Sensor Issue,True,27.3
+526,1110,2024-02-08,Connectivity,True,16.8
+527,1110,2024-02-13,Connectivity,True,43.8
+528,1113,2024-05-31,Billing,True,29.0
+529,1115,2024-06-19,Sensor Issue,True,4.0
+530,1120,2025-02-03,Installation Follow-up,True,6.6
+531,1122,2024-04-23,Installation Follow-up,True,5.7
+532,1123,2024-08-03,Installation Follow-up,True,8.4
+533,1123,2024-08-14,Connectivity,True,16.6
+534,1123,2024-07-22,Connectivity,True,7.1
+535,1127,2025-09-30,Sensor Issue,True,16.0
+536,1131,2024-12-06,App/Login,True,34.6
+537,1131,2024-11-27,Installation Follow-up,True,26.0
+538,1131,2024-12-22,Installation Follow-up,True,15.8
+539,1132,2025-05-22,Sensor Issue,True,23.7
+540,1134,2025-08-12,False Alarm,True,37.6
+541,1139,2025-07-08,Installation Follow-up,True,32.4
+542,1139,2025-07-30,Sensor Issue,True,20.1
+543,1140,2025-03-09,Connectivity,False,8.1
+544,1141,2025-10-23,Installation Follow-up,False,13.5
+545,1142,2024-09-08,Sensor Issue,True,1.0
+546,1143,2025-12-13,False Alarm,True,7.4
+547,1144,2025-09-27,App/Login,True,15.3
+548,1145,2024-10-11,Sensor Issue,True,24.0
+549,1146,2025-02-07,Installation Follow-up,True,18.2
+550,1154,2025-11-11,Installation Follow-up,True,33.7
+551,1156,2025-03-27,Installation Follow-up,True,19.2
+552,1159,2024-10-10,False Alarm,True,46.5
+553,1161,2025-03-20,Installation Follow-up,True,34.8
+554,1165,2025-01-12,Connectivity,True,28.9
+555,1165,2025-02-28,Sensor Issue,True,32.0
+556,1167,2024-03-07,Installation Follow-up,True,18.4
+557,1167,2024-03-13,False Alarm,True,28.0
+558,1167,2024-03-17,Installation Follow-up,True,5.7
+559,1170,2025-12-25,False Alarm,True,7.9
+560,1170,2025-12-09,False Alarm,True,22.6
+561,1170,2025-12-22,Billing,False,13.4
+562,1181,2025-04-25,Sensor Issue,True,12.2
+563,1181,2025-04-11,Installation Follow-up,True,28.9
+564,1181,2025-04-26,Sensor Issue,False,28.9
+565,1185,2024-12-27,False Alarm,False,2.6
+566,1185,2024-12-27,Sensor Issue,True,28.0
+567,1186,2024-09-10,Installation Follow-up,True,21.0
+568,1186,2024-10-09,Billing,True,2.2
+569,1186,2024-09-12,Sensor Issue,True,24.7
+570,1188,2025-03-29,Billing,True,8.5
+571,1188,2025-04-12,Connectivity,False,42.1
+572,1188,2025-03-30,Connectivity,True,3.8
+573,1189,2025-03-25,Installation Follow-up,True,31.1
+574,1189,2025-02-21,Installation Follow-up,True,11.4
+575,1192,2024-07-26,Sensor Issue,True,19.3
+576,1194,2025-06-22,Installation Follow-up,True,9.2
+577,1208,2025-06-23,Sensor Issue,True,4.0
+578,1208,2025-06-11,Sensor Issue,True,10.9
+579,1208,2025-06-13,App/Login,True,28.1
+580,1209,2024-08-06,Installation Follow-up,True,48.1
+581,1209,2024-09-25,False Alarm,True,17.2
+582,1213,2025-01-14,Connectivity,True,10.8
+583,1214,2025-10-04,Sensor Issue,False,16.7
+584,1216,2024-04-10,False Alarm,True,8.3
+585,1216,2024-04-05,Installation Follow-up,True,6.5
+586,1217,2025-01-28,Connectivity,True,21.2
+587,1217,2025-02-18,Installation Follow-up,True,24.5
+588,1219,2025-09-28,App/Login,True,3.3
+589,1222,2025-04-06,Installation Follow-up,False,24.2
+590,1227,2024-03-21,False Alarm,True,12.6
+591,1227,2024-04-15,Billing,True,17.9
+592,1230,2024-08-20,App/Login,True,18.8
+593,1230,2024-09-23,False Alarm,False,28.8
+594,1233,2026-01-30,Billing,True,15.1
+595,1235,2025-06-07,App/Login,True,17.8
+596,1236,2024-10-19,Sensor Issue,True,10.9
+597,1236,2024-09-17,App/Login,True,17.3
+598,1250,2025-12-17,App/Login,True,32.6
+599,1250,2026-01-16,Installation Follow-up,True,17.9
+600,1251,2024-07-29,Billing,True,5.5
+601,1252,2024-11-30,False Alarm,True,28.5
+602,1254,2025-08-11,App/Login,False,31.4
+603,1255,2025-05-14,Installation Follow-up,True,1.6
+604,1255,2025-06-15,Sensor Issue,True,16.4
+605,1255,2025-04-29,False Alarm,True,23.3
+606,1259,2025-03-14,False Alarm,True,10.9
+607,1259,2025-01-30,App/Login,True,29.2
+608,1260,2025-10-01,App/Login,True,8.0
+609,1261,2024-08-13,App/Login,True,18.9
+610,1261,2024-07-27,Installation Follow-up,True,3.0
+611,1262,2025-12-31,Sensor Issue,True,10.9
+612,1267,2024-03-10,Installation Follow-up,True,34.6
+613,1269,2025-11-30,Installation Follow-up,True,30.9
+614,1270,2024-03-20,Connectivity,True,9.3
+615,1271,2024-10-02,Sensor Issue,True,19.0
+616,1276,2025-06-29,App/Login,True,22.5
+617,1276,2025-07-09,Sensor Issue,True,9.9
+618,1278,2025-08-21,Installation Follow-up,True,16.9
+619,1278,2025-08-22,Sensor Issue,True,14.5
+620,1279,2024-02-26,Sensor Issue,True,27.6
+621,1279,2024-02-03,Sensor Issue,True,5.8
+622,1280,2025-10-07,App/Login,True,1.0
+623,1280,2025-11-13,App/Login,True,26.7
+624,1281,2025-07-19,App/Login,True,22.8
+625,1289,2024-04-12,Billing,True,21.4
+626,1296,2025-01-27,Billing,False,29.0
+627,1300,2024-03-01,Installation Follow-up,True,16.9
+628,1302,2024-12-13,Installation Follow-up,True,8.3
+629,1302,2024-10-28,App/Login,True,3.3
+630,1303,2025-07-08,App/Login,True,15.1
+631,1303,2025-07-01,App/Login,True,21.3
+632,1303,2025-05-29,Sensor Issue,True,9.7
+633,1308,2024-07-06,App/Login,True,17.3
+634,1312,2024-10-20,False Alarm,True,1.0
+635,1315,2025-11-12,Sensor Issue,True,16.8
+636,1316,2024-09-05,App/Login,True,11.7
+637,1319,2024-12-21,Billing,False,5.6
+638,1319,2024-12-13,Installation Follow-up,True,13.9
+639,1319,2024-12-14,App/Login,True,6.8
+640,1320,2024-12-02,False Alarm,True,21.3
+641,1325,2025-10-07,Installation Follow-up,True,10.2
+642,1326,2024-06-02,Sensor Issue,True,7.2
+643,1333,2024-11-18,App/Login,False,16.8
+644,1333,2024-12-18,Installation Follow-up,True,4.7
+645,1333,2025-01-05,False Alarm,True,38.0
+646,1333,2024-11-19,Connectivity,True,12.8
+647,1335,2025-03-06,Sensor Issue,True,5.1
+648,1336,2026-02-12,App/Login,True,11.0
+649,1336,2025-12-31,App/Login,True,14.1
+650,1337,2025-05-18,Sensor Issue,True,23.3
+651,1348,2025-07-20,False Alarm,True,26.3
+652,1350,2025-04-19,Installation Follow-up,True,31.3
+653,1361,2024-03-15,App/Login,True,30.2
+654,1368,2024-12-14,Sensor Issue,True,40.9
+655,1368,2024-12-21,False Alarm,True,16.6
+656,1371,2025-11-01,Sensor Issue,True,8.9
+657,1378,2025-09-01,Connectivity,True,8.0
+658,1378,2025-07-04,Installation Follow-up,True,18.2
+659,1378,2025-08-14,Billing,True,5.8
+660,1382,2024-09-22,False Alarm,True,11.3
+661,1387,2025-03-17,Connectivity,True,27.4
+662,1387,2025-03-24,Installation Follow-up,True,28.1
+663,1394,2025-07-01,Sensor Issue,True,23.7
+664,1394,2025-08-25,Billing,True,16.5
+665,1395,2024-07-17,Installation Follow-up,True,15.4
+666,1395,2024-06-14,App/Login,True,13.9
+667,1395,2024-06-07,Sensor Issue,True,8.8
+668,1395,2024-08-04,App/Login,True,29.0
+669,1401,2025-10-02,Sensor Issue,True,4.7
+670,1407,2024-10-30,Connectivity,True,2.9
+671,1410,2024-09-01,Sensor Issue,True,13.5
+672,1410,2024-08-04,Connectivity,True,17.2
+673,1410,2024-09-18,Sensor Issue,True,19.6
+674,1410,2024-08-13,Connectivity,False,15.4
+675,1411,2024-03-08,Installation Follow-up,True,17.1
+676,1411,2024-03-14,Connectivity,True,27.6
+677,1411,2024-03-28,Installation Follow-up,True,19.7
+678,1412,2025-02-16,Installation Follow-up,True,26.4
+679,1419,2025-09-22,Installation Follow-up,True,29.8
+680,1419,2025-10-18,False Alarm,True,18.7
+681,1425,2024-08-31,Installation Follow-up,True,13.0
+682,1425,2024-08-07,False Alarm,True,12.7
+683,1427,2025-05-06,Installation Follow-up,True,2.8
+684,1434,2025-03-29,Sensor Issue,True,48.8
+685,1434,2025-03-24,False Alarm,True,14.3
+686,1434,2025-02-23,App/Login,True,11.7
+687,1434,2025-02-18,Sensor Issue,True,37.2
+688,1435,2024-10-01,False Alarm,True,16.3
+689,1439,2024-09-20,Installation Follow-up,False,36.2
+690,1440,2026-01-15,App/Login,True,23.6
+691,1440,2026-01-14,False Alarm,True,11.0
+692,1442,2025-01-10,Installation Follow-up,True,8.2
+693,1447,2026-01-12,Sensor Issue,True,8.5
+694,1450,2024-05-12,Sensor Issue,True,20.7
+695,1456,2024-03-07,False Alarm,True,24.2
+696,1456,2024-03-11,App/Login,True,10.4
+697,1456,2024-03-30,Sensor Issue,True,3.6
+698,1457,2025-12-25,Installation Follow-up,True,23.2
+699,1458,2025-01-09,App/Login,True,30.5
+700,1458,2024-12-17,Installation Follow-up,True,24.5
+701,1460,2025-01-14,False Alarm,True,30.2
+702,1460,2025-02-28,Installation Follow-up,True,13.1
+703,1460,2025-02-23,Installation Follow-up,True,3.0
+704,1465,2025-10-16,Connectivity,True,11.5
+705,1465,2025-10-15,Sensor Issue,True,10.6
+706,1465,2025-10-21,Connectivity,True,23.9
+707,1465,2025-10-29,Installation Follow-up,True,17.2
+708,1466,2024-05-07,Sensor Issue,True,27.6
+709,1466,2024-03-24,Billing,True,14.6
+710,1472,2025-07-03,Installation Follow-up,True,27.6
+711,1487,2024-05-21,Connectivity,True,18.7
+712,1489,2024-05-13,Sensor Issue,True,16.2
+713,1494,2024-09-06,App/Login,True,1.0
+714,1496,2024-11-20,Installation Follow-up,True,17.2
+715,1496,2024-11-17,Connectivity,False,6.1
+716,1496,2024-12-25,Connectivity,True,8.2
+717,1496,2025-01-10,Installation Follow-up,True,34.4
+718,1499,2025-02-03,Installation Follow-up,True,29.0
+719,1499,2025-01-22,Installation Follow-up,True,19.5
+720,1500,2025-11-05,App/Login,True,12.8
+721,1505,2025-04-24,False Alarm,True,29.5
+722,1505,2025-04-27,Connectivity,True,9.4
+723,1506,2024-07-20,App/Login,True,15.0
+724,1506,2024-07-07,Connectivity,True,1.0
+725,1510,2025-06-17,Sensor Issue,True,26.3
+726,1511,2024-10-26,Sensor Issue,True,19.9
+727,1511,2024-10-18,Sensor Issue,True,18.0
+728,1512,2024-07-08,Billing,True,12.9
+729,1513,2025-08-24,App/Login,True,29.0
+730,1514,2024-09-05,Sensor Issue,True,13.4
+731,1518,2024-03-27,False Alarm,True,11.4
+732,1518,2024-02-19,False Alarm,True,25.2
+733,1519,2025-01-05,Installation Follow-up,True,3.3
+734,1525,2025-04-12,Connectivity,True,33.1
+735,1525,2025-05-05,Installation Follow-up,True,1.0
+736,1526,2024-03-16,Installation Follow-up,True,15.1
+737,1527,2024-09-29,App/Login,True,26.7
+738,1529,2024-03-02,App/Login,True,13.5
+739,1532,2024-02-24,Installation Follow-up,True,22.2
+740,1532,2024-01-17,Sensor Issue,True,17.0
+741,1537,2024-05-24,Installation Follow-up,True,24.6
+742,1537,2024-04-26,Billing,False,1.0
+743,1540,2025-05-08,Connectivity,True,14.2
+744,1540,2025-04-20,Connectivity,True,18.0
+745,1540,2025-05-13,Sensor Issue,True,24.5
+746,1550,2024-01-12,Connectivity,False,23.6
+747,1552,2025-11-11,Sensor Issue,True,17.5
+748,1552,2025-10-25,Installation Follow-up,True,10.5
+749,1552,2025-09-24,Sensor Issue,True,1.0
+750,1553,2025-02-06,Billing,True,27.1
+751,1555,2025-01-03,False Alarm,True,13.7
+752,1558,2025-07-28,Connectivity,True,22.7
+753,1558,2025-08-24,Sensor Issue,True,25.9
+754,1559,2026-01-30,Installation Follow-up,True,2.7
+755,1559,2026-01-24,False Alarm,True,11.8
+756,1559,2026-01-22,Billing,True,32.2
+757,1561,2024-09-23,Installation Follow-up,True,33.2
+758,1565,2025-03-08,False Alarm,True,15.8
+759,1577,2025-02-19,False Alarm,True,22.8
+760,1582,2024-06-17,Sensor Issue,True,30.6
+761,1582,2024-07-24,False Alarm,True,29.7
+762,1582,2024-06-12,Billing,True,3.2
+763,1584,2024-12-17,Sensor Issue,True,31.3
+764,1584,2024-12-01,Billing,True,25.9
+765,1584,2024-11-25,App/Login,True,19.3
+766,1586,2024-09-08,Installation Follow-up,True,13.9
+767,1587,2025-09-02,Sensor Issue,True,19.5
+768,1587,2025-09-19,Sensor Issue,True,26.9
+769,1591,2025-07-19,Billing,True,13.9
+770,1591,2025-07-08,Installation Follow-up,True,12.1
+771,1591,2025-07-01,Sensor Issue,True,21.2
+772,1591,2025-08-06,Installation Follow-up,True,19.5
+773,1592,2024-09-26,App/Login,True,24.7
+774,1592,2024-10-20,Connectivity,False,24.3
+775,1595,2025-06-17,False Alarm,False,21.9
+776,1598,2025-06-18,False Alarm,True,12.4
+777,1599,2025-10-06,Billing,True,17.4
+778,1599,2025-10-15,Installation Follow-up,False,20.3
+779,1600,2025-07-13,Connectivity,True,29.4
+780,1600,2025-06-23,Installation Follow-up,True,24.7
+781,1600,2025-06-10,Connectivity,True,22.8
+782,1600,2025-06-19,Connectivity,True,1.0
+783,1603,2025-09-06,Billing,True,18.7
+784,1610,2024-05-10,Sensor Issue,True,18.4
+785,1613,2025-05-12,Billing,True,21.5
+786,1613,2025-06-27,Installation Follow-up,True,18.4
+787,1613,2025-05-10,Installation Follow-up,True,9.9
+788,1618,2025-02-19,App/Login,True,21.8
+789,1618,2025-02-12,App/Login,True,27.8
+790,1623,2025-12-08,Sensor Issue,False,29.7
+791,1630,2024-04-14,False Alarm,True,39.1
+792,1630,2024-04-23,False Alarm,True,29.7
+793,1630,2024-04-19,Sensor Issue,True,8.2
+794,1631,2025-04-07,Installation Follow-up,False,10.7
+795,1631,2025-04-20,Sensor Issue,True,29.8
+796,1631,2025-03-01,Installation Follow-up,True,17.1
+797,1631,2025-04-07,Sensor Issue,True,37.4
+798,1632,2025-11-23,Billing,True,26.4
+799,1634,2025-11-29,App/Login,True,30.4
+800,1637,2024-05-18,False Alarm,True,15.8
+801,1637,2024-06-09,App/Login,True,1.0
+802,1639,2024-06-15,Connectivity,True,5.1
+803,1645,2024-05-02,Billing,True,12.8
+804,1646,2024-08-17,Billing,True,20.2
+805,1648,2025-05-07,Connectivity,True,12.5
+806,1651,2024-07-12,False Alarm,True,22.8
+807,1651,2024-05-23,Installation Follow-up,True,24.5
+808,1651,2024-06-27,False Alarm,True,14.8
+809,1651,2024-07-14,Connectivity,True,17.3
+810,1657,2025-09-22,App/Login,True,21.1
+811,1668,2025-05-22,False Alarm,False,43.3
+812,1669,2025-03-14,Installation Follow-up,True,14.5
+813,1671,2025-08-28,False Alarm,True,21.5
+814,1671,2025-08-07,Sensor Issue,True,37.2
+815,1673,2024-09-02,False Alarm,True,22.2
+816,1675,2025-07-08,False Alarm,True,6.9
+817,1675,2025-06-30,False Alarm,True,21.1
+818,1687,2024-12-31,Installation Follow-up,True,15.5
+819,1692,2025-12-07,Installation Follow-up,True,9.3
+820,1694,2024-12-03,Sensor Issue,True,30.7
+821,1694,2024-11-14,False Alarm,True,27.5
+822,1694,2024-11-30,Billing,True,16.6
+823,1702,2024-06-15,False Alarm,True,1.0
+824,1702,2024-06-14,Connectivity,True,11.7
+825,1702,2024-05-22,Sensor Issue,True,25.9
+826,1703,2025-06-07,Sensor Issue,True,3.4
+827,1704,2024-07-08,Billing,True,1.0
+828,1704,2024-06-20,Connectivity,True,26.8
+829,1704,2024-07-10,Sensor Issue,True,16.1
+830,1708,2025-12-07,App/Login,True,34.9
+831,1712,2025-01-08,Billing,True,35.4
+832,1714,2025-07-28,False Alarm,True,10.8
+833,1714,2025-06-20,Connectivity,True,30.7
+834,1714,2025-06-27,False Alarm,True,16.0
+835,1716,2025-11-10,Installation Follow-up,True,12.0
+836,1716,2025-11-14,Connectivity,True,33.1
+837,1716,2025-11-22,Connectivity,False,38.4
+838,1725,2025-03-06,Sensor Issue,True,21.1
+839,1728,2025-02-27,False Alarm,True,11.4
+840,1728,2025-03-20,Sensor Issue,True,13.0
+841,1733,2025-07-03,False Alarm,True,4.9
+842,1734,2025-10-28,App/Login,True,10.2
+843,1734,2025-10-04,False Alarm,True,26.4
+844,1734,2025-11-09,Connectivity,True,17.9
+845,1734,2025-10-09,Billing,True,18.5
+846,1743,2025-01-14,Connectivity,True,5.1
+847,1744,2024-02-24,False Alarm,True,30.3
+848,1744,2024-01-31,Installation Follow-up,True,8.7
+849,1744,2024-02-13,App/Login,True,28.1
+850,1748,2024-10-26,False Alarm,True,31.2
+851,1748,2024-10-29,Connectivity,True,13.0
+852,1756,2024-10-19,Sensor Issue,True,28.1
+853,1764,2025-05-06,Installation Follow-up,True,15.0
+854,1767,2025-01-16,App/Login,True,17.4
+855,1767,2025-02-07,App/Login,True,23.6
+856,1767,2025-01-10,False Alarm,True,18.9
+857,1768,2025-01-16,App/Login,True,15.1
+858,1771,2024-11-03,Installation Follow-up,True,18.3
+859,1771,2024-09-21,App/Login,True,24.3
+860,1779,2024-08-22,Connectivity,True,17.7
+861,1780,2025-07-13,App/Login,True,8.6
+862,1781,2024-02-24,Connectivity,True,10.7
+863,1783,2024-02-12,App/Login,True,40.0
+864,1786,2024-07-30,App/Login,True,34.5
+865,1790,2025-08-30,False Alarm,False,6.2
+866,1790,2025-08-10,App/Login,True,12.3
+867,1790,2025-07-20,Sensor Issue,False,15.5
+868,1794,2024-08-14,False Alarm,True,22.1
+869,1794,2024-09-09,Billing,True,14.3
+870,1809,2024-03-21,Connectivity,True,12.4
+871,1810,2026-01-10,Installation Follow-up,True,26.8
+872,1810,2025-12-24,Sensor Issue,True,25.7
+873,1810,2026-01-03,False Alarm,False,24.2
+874,1815,2025-11-08,App/Login,True,20.1
+875,1815,2025-10-27,Sensor Issue,True,12.8
+876,1815,2025-11-23,Sensor Issue,True,32.9
+877,1817,2024-06-21,Sensor Issue,True,36.1
+878,1818,2024-08-14,Connectivity,True,13.0
+879,1821,2024-08-26,App/Login,True,18.2
+880,1822,2025-08-25,App/Login,False,22.4
+881,1823,2024-08-20,False Alarm,True,28.7
+882,1823,2024-08-13,Connectivity,True,21.7
+883,1823,2024-09-25,Billing,True,28.3
+884,1823,2024-10-03,False Alarm,True,12.1
+885,1825,2025-08-30,Sensor Issue,True,20.3
+886,1826,2025-12-03,App/Login,True,25.5
+887,1829,2025-04-14,Billing,True,6.2
+888,1829,2025-05-08,Sensor Issue,True,24.6
+889,1832,2026-01-14,Sensor Issue,True,22.6
+890,1833,2025-05-05,Connectivity,True,15.1
+891,1833,2025-04-11,False Alarm,True,18.9
+892,1833,2025-04-25,Sensor Issue,True,10.0
+893,1834,2024-02-28,Connectivity,True,13.1
+894,1834,2024-03-05,App/Login,True,21.7
+895,1834,2024-03-24,Installation Follow-up,True,4.9
+896,1840,2025-03-28,False Alarm,True,18.7
+897,1844,2025-10-05,App/Login,True,44.7
+898,1844,2025-10-02,False Alarm,True,4.9
+899,1844,2025-09-19,Sensor Issue,True,21.6
+900,1844,2025-11-01,Installation Follow-up,True,15.2
+901,1847,2024-11-11,False Alarm,True,2.1
+902,1854,2024-06-19,App/Login,True,25.5
+903,1854,2024-06-14,Installation Follow-up,False,26.0
+904,1854,2024-05-13,False Alarm,True,24.1
+905,1856,2025-09-19,Sensor Issue,True,27.5
+906,1859,2025-02-16,Sensor Issue,True,20.6
+907,1859,2025-01-20,False Alarm,False,28.4
+908,1859,2025-03-18,Installation Follow-up,True,12.1
+909,1864,2024-11-18,Sensor Issue,True,20.1
+910,1866,2024-12-12,Billing,True,2.2
+911,1874,2025-12-08,Installation Follow-up,False,1.0
+912,1879,2025-08-04,Sensor Issue,True,9.4
+913,1881,2024-11-13,False Alarm,False,17.0
+914,1885,2025-04-05,App/Login,True,10.7
+915,1885,2025-04-24,Sensor Issue,True,1.0
+916,1886,2024-06-25,Installation Follow-up,True,23.6
+917,1891,2024-06-30,Connectivity,True,4.1
+918,1891,2024-05-16,Billing,True,12.2
+919,1891,2024-06-02,Connectivity,True,1.6
+920,1891,2024-05-17,Sensor Issue,True,27.2
+921,1896,2025-10-07,False Alarm,True,15.1
+922,1896,2025-10-11,App/Login,True,15.6
+923,1897,2025-02-25,Sensor Issue,True,4.0
+924,1899,2025-08-16,Billing,True,1.0
+925,1901,2025-02-03,App/Login,True,13.1
+926,1902,2025-02-21,Sensor Issue,True,3.1
+927,1906,2024-07-12,Sensor Issue,True,10.3
+928,1916,2025-01-22,Sensor Issue,True,28.2
+929,1922,2025-02-10,App/Login,True,17.6
+930,1923,2025-10-11,False Alarm,True,30.9
+931,1925,2024-11-17,Sensor Issue,True,19.0
+932,1925,2024-09-21,Connectivity,True,33.5
+933,1928,2024-04-28,App/Login,True,8.6
+934,1929,2024-07-05,False Alarm,True,19.8
+935,1937,2024-10-07,Billing,True,3.8
+936,1939,2025-12-05,Installation Follow-up,True,30.1
+937,1941,2024-06-08,False Alarm,True,30.2
+938,1942,2024-07-07,Billing,False,20.0
+939,1945,2024-10-07,App/Login,True,7.9
+940,1948,2025-11-01,False Alarm,False,17.0
+941,1950,2024-10-04,False Alarm,True,24.8
+942,1952,2025-03-20,False Alarm,True,11.1
+943,1954,2025-01-08,Sensor Issue,True,8.8
+944,1955,2025-12-20,Installation Follow-up,True,16.2
+945,1959,2025-06-18,Billing,False,1.0
+946,1963,2024-06-09,Connectivity,True,21.3
+947,1967,2024-11-22,Installation Follow-up,False,34.6
+948,1967,2024-10-23,Installation Follow-up,False,26.1
+949,1973,2025-05-16,Connectivity,True,17.8
+950,1975,2025-03-15,Connectivity,True,14.4
+951,1975,2025-03-20,App/Login,True,27.5
+952,1975,2025-03-27,App/Login,True,18.6
+953,1975,2025-04-07,Installation Follow-up,True,28.8
+954,1988,2024-08-02,Connectivity,True,16.3
+955,1988,2024-07-17,Sensor Issue,True,16.2
+956,1997,2025-04-07,Installation Follow-up,True,25.3
+957,1997,2025-03-02,Sensor Issue,True,8.5
+958,1997,2025-03-16,Sensor Issue,True,17.3
+959,1997,2025-02-17,Sensor Issue,True,1.6
+960,1999,2024-09-06,Billing,True,25.5
+961,2000,2024-08-14,Installation Follow-up,True,25.1
+962,2000,2024-09-17,Connectivity,True,29.8
+963,2000,2024-08-07,Sensor Issue,True,16.6
+964,2008,2024-06-07,Sensor Issue,True,19.6
+965,2008,2024-06-11,Sensor Issue,True,13.6
+966,2009,2025-09-25,False Alarm,True,14.9
+967,2010,2025-04-13,Connectivity,True,12.2
+968,2013,2024-05-04,Installation Follow-up,True,21.0
+969,2013,2024-05-19,Installation Follow-up,True,28.0
+970,2017,2024-12-01,Installation Follow-up,True,17.6
+971,2017,2024-12-24,False Alarm,False,28.6
+972,2020,2024-12-09,Sensor Issue,True,20.6
+973,2020,2025-02-01,Installation Follow-up,True,31.1
+974,2021,2024-08-27,Sensor Issue,True,22.1
+975,2021,2024-09-03,Connectivity,True,29.5
+976,2021,2024-10-08,False Alarm,True,20.6
+977,2024,2025-04-04,App/Login,True,21.6
+978,2024,2025-04-05,App/Login,True,21.3
+979,2027,2025-03-28,App/Login,True,12.9
+980,2033,2024-03-31,Connectivity,True,31.0
+981,2035,2026-01-06,Connectivity,True,1.0
+982,2035,2026-01-24,False Alarm,True,12.6
+983,2035,2026-01-22,Billing,True,1.3
+984,2035,2026-01-29,Sensor Issue,True,13.7
+985,2039,2026-02-16,Installation Follow-up,True,6.2
+986,2043,2025-07-01,Sensor Issue,True,2.6
+987,2044,2025-08-23,Installation Follow-up,True,24.6
+988,2044,2025-08-06,Installation Follow-up,True,17.6
+989,2045,2024-08-07,False Alarm,True,22.2
+990,2045,2024-09-02,False Alarm,True,19.5
+991,2046,2026-01-08,Billing,False,5.1
+992,2046,2026-02-12,Installation Follow-up,True,30.5
+993,2048,2025-02-06,Connectivity,True,25.2
+994,2048,2025-02-25,False Alarm,True,10.2
+995,2051,2024-06-02,False Alarm,True,36.3
+996,2054,2025-12-19,Sensor Issue,True,13.2
+997,2056,2024-11-17,Connectivity,True,4.3
+998,2058,2025-07-23,Sensor Issue,True,24.4
+999,2063,2024-05-25,App/Login,True,5.2
+1000,2064,2025-07-05,Sensor Issue,True,9.5
+1001,2068,2025-11-10,Connectivity,True,32.2
+1002,2072,2025-04-20,False Alarm,True,19.6
+1003,2085,2024-04-18,App/Login,True,24.5
+1004,2085,2024-05-25,App/Login,True,23.5
+1005,2087,2025-07-06,Installation Follow-up,True,5.5
+1006,2088,2025-05-30,Connectivity,True,4.6
+1007,2088,2025-06-01,Connectivity,True,4.8
+1008,2088,2025-04-30,Connectivity,True,23.6
+1009,2088,2025-06-26,False Alarm,True,22.6
+1010,2098,2025-11-11,Sensor Issue,True,24.9
+1011,2098,2025-10-28,Installation Follow-up,True,14.6
+1012,2099,2025-08-21,False Alarm,True,25.4
+1013,2100,2024-08-18,Installation Follow-up,True,5.1
+1014,2102,2025-05-03,Installation Follow-up,True,5.6
+1015,2106,2024-08-22,Sensor Issue,True,30.3
+1016,2106,2024-08-11,App/Login,True,11.5
+1017,2106,2024-08-07,False Alarm,True,21.2
+1018,2107,2025-07-28,Sensor Issue,True,19.5
+1019,2112,2025-07-05,Sensor Issue,True,28.8
+1020,2114,2025-12-20,Connectivity,True,24.0
+1021,2114,2025-11-22,Connectivity,True,12.8
+1022,2115,2025-08-10,Billing,True,5.1
+1023,2115,2025-08-04,App/Login,True,8.7
+1024,2115,2025-06-28,App/Login,True,19.5
+1025,2115,2025-07-21,Connectivity,True,23.8
+1026,2119,2025-03-27,Sensor Issue,True,14.1
+1027,2124,2025-04-07,Sensor Issue,True,20.1
+1028,2126,2024-09-03,False Alarm,True,30.3
+1029,2139,2025-03-26,False Alarm,True,19.5
+1030,2139,2025-02-01,False Alarm,True,10.1
+1031,2141,2025-06-29,Sensor Issue,True,2.3
+1032,2141,2025-07-16,Connectivity,True,32.1
+1033,2145,2024-10-17,Installation Follow-up,True,10.4
+1034,2145,2024-10-30,Installation Follow-up,True,26.1
+1035,2145,2024-10-20,App/Login,True,24.4
+1036,2150,2025-10-18,App/Login,True,32.2
+1037,2151,2024-09-07,Billing,True,6.2
+1038,2158,2025-04-15,Sensor Issue,True,1.0
+1039,2159,2025-10-10,False Alarm,True,13.5
+1040,2163,2024-11-16,False Alarm,True,13.4
+1041,2165,2026-01-12,False Alarm,True,17.8
+1042,2167,2024-09-19,Installation Follow-up,True,19.3
+1043,2176,2025-07-23,Sensor Issue,True,34.4
+1044,2176,2025-09-09,Connectivity,True,39.2
+1045,2176,2025-07-21,Installation Follow-up,True,16.4
+1046,2181,2025-06-07,Sensor Issue,True,31.4
+1047,2181,2025-06-30,False Alarm,False,23.8
+1048,2181,2025-07-13,App/Login,True,20.1
+1049,2181,2025-05-26,Installation Follow-up,True,13.5
+1050,2182,2024-06-29,App/Login,True,20.2
+1051,2182,2024-07-07,Sensor Issue,True,12.2
+1052,2185,2025-05-30,App/Login,True,19.7
+1053,2185,2025-05-27,App/Login,True,25.8
+1054,2188,2024-08-26,Sensor Issue,True,4.4
+1055,2188,2024-07-16,Installation Follow-up,True,14.5
+1056,2188,2024-07-20,Sensor Issue,False,15.1
+1057,2190,2025-03-08,False Alarm,True,21.0
+1058,2190,2025-03-04,Billing,True,1.0
+1059,2190,2025-03-13,App/Login,True,29.1
+1060,2193,2024-09-14,Sensor Issue,True,12.8
+1061,2193,2024-08-10,Installation Follow-up,True,22.2
+1062,2200,2024-06-24,Sensor Issue,True,25.5
+1063,2200,2024-05-04,App/Login,True,20.0
+1064,2203,2024-02-06,Connectivity,True,12.6
+1065,2208,2025-09-20,Installation Follow-up,True,21.1
+1066,2214,2024-04-19,Sensor Issue,True,18.4
+1067,2214,2024-04-22,Sensor Issue,True,14.6
+1068,2214,2024-03-31,Sensor Issue,True,5.7
+1069,2218,2026-01-28,App/Login,True,12.6
+1070,2218,2026-01-13,Connectivity,True,30.0
+1071,2218,2026-01-15,Installation Follow-up,True,15.7
+1072,2218,2026-01-26,App/Login,True,13.2
+1073,2219,2024-09-23,App/Login,True,12.6
+1074,2219,2024-08-28,Connectivity,True,22.7
+1075,2219,2024-09-26,Installation Follow-up,False,23.7
+1076,2223,2024-01-20,Connectivity,True,17.2
+1077,2227,2025-10-13,Installation Follow-up,True,11.7
+1078,2232,2024-03-29,Connectivity,True,14.7
+1079,2232,2024-04-18,App/Login,True,15.2
+1080,2243,2024-12-10,Connectivity,True,26.6
+1081,2243,2025-01-02,App/Login,False,14.3
+1082,2244,2024-04-17,Connectivity,True,10.2
+1083,2244,2024-05-17,Sensor Issue,True,1.9
+1084,2249,2024-04-29,Installation Follow-up,True,16.0
+1085,2249,2024-06-01,Installation Follow-up,False,41.0
+1086,2249,2024-06-07,Sensor Issue,True,35.2
+1087,2249,2024-04-23,Sensor Issue,False,11.2
+1088,2252,2025-02-07,Installation Follow-up,True,11.0
+1089,2253,2024-07-17,App/Login,True,21.8
+1090,2254,2025-02-02,Sensor Issue,True,1.0
+1091,2254,2025-02-17,Sensor Issue,True,4.2
+1092,2254,2025-01-10,False Alarm,True,7.6
+1093,2254,2025-01-28,False Alarm,True,18.6
+1094,2258,2025-05-25,Installation Follow-up,True,19.6
+1095,2261,2024-02-25,Installation Follow-up,True,18.7
+1096,2265,2024-05-15,Billing,True,31.6
+1097,2272,2024-09-13,Sensor Issue,True,31.4
+1098,2275,2024-05-09,False Alarm,True,17.0
+1099,2279,2024-11-11,Installation Follow-up,True,23.9
+1100,2283,2024-09-03,Installation Follow-up,True,10.6
+1101,2285,2025-06-19,App/Login,True,16.2
+1102,2286,2025-09-24,Installation Follow-up,False,12.3
+1103,2290,2024-12-19,False Alarm,True,24.1
+1104,2295,2025-07-27,Sensor Issue,True,30.8
+1105,2301,2024-09-10,False Alarm,True,18.4
+1106,2302,2024-04-30,Billing,True,8.0
+1107,2303,2025-03-18,Sensor Issue,True,17.9
+1108,2306,2024-05-09,Billing,True,4.5
+1109,2306,2024-04-16,Billing,True,4.7
+1110,2306,2024-03-16,App/Login,True,10.7
+1111,2306,2024-03-16,Installation Follow-up,True,21.7
+1112,2311,2024-08-06,Billing,True,15.5
+1113,2312,2024-03-31,Sensor Issue,True,1.0
+1114,2312,2024-03-27,Connectivity,True,29.8
+1115,2318,2024-12-23,Connectivity,True,8.9
+1116,2318,2024-12-22,Installation Follow-up,True,11.7
+1117,2324,2025-06-15,Sensor Issue,True,17.7
+1118,2328,2024-06-27,False Alarm,True,5.7
+1119,2331,2024-03-23,App/Login,True,14.1
+1120,2331,2024-04-01,Sensor Issue,True,2.2
+1121,2331,2024-03-02,Connectivity,True,25.5
+1122,2332,2025-10-04,Installation Follow-up,True,17.5
+1123,2332,2025-10-17,Installation Follow-up,True,13.3
+1124,2342,2024-11-20,App/Login,True,24.4
+1125,2346,2024-07-26,App/Login,True,21.1
+1126,2347,2024-09-30,Billing,True,19.8
+1127,2349,2024-06-19,Sensor Issue,False,12.4
+1128,2351,2025-01-31,Sensor Issue,True,19.5
+1129,2352,2025-07-29,Installation Follow-up,True,1.0
+1130,2358,2024-07-20,False Alarm,True,6.4
+1131,2360,2024-06-08,Installation Follow-up,True,27.7
+1132,2361,2025-05-25,App/Login,True,21.5
+1133,2361,2025-05-14,App/Login,True,23.7
+1134,2363,2026-01-06,App/Login,True,8.4
+1135,2364,2024-04-07,False Alarm,True,23.3
+1136,2364,2024-05-14,Connectivity,True,13.8
+1137,2364,2024-04-03,Installation Follow-up,True,27.2
+1138,2366,2024-04-14,False Alarm,True,13.6
+1139,2367,2024-09-15,App/Login,True,29.9
+1140,2369,2024-05-13,Sensor Issue,True,40.3
+1141,2371,2024-03-30,Sensor Issue,True,14.5
+1142,2371,2024-03-10,App/Login,True,15.6
+1143,2374,2024-11-29,Billing,True,46.0
+1144,2374,2024-12-16,Sensor Issue,True,5.6
+1145,2377,2025-09-19,Connectivity,True,1.0
+1146,2379,2026-01-17,Billing,True,31.9
+1147,2384,2024-11-07,Billing,False,12.4
+1148,2386,2025-10-31,Sensor Issue,True,35.6
+1149,2386,2025-10-13,Installation Follow-up,True,23.5
+1150,2387,2026-01-13,Installation Follow-up,True,29.4
+1151,2390,2025-10-31,Sensor Issue,False,10.5
+1152,2401,2024-02-28,Sensor Issue,True,39.7
+1153,2401,2024-03-04,Installation Follow-up,True,2.0
+1154,2401,2024-02-10,Connectivity,True,11.7
+1155,2401,2024-03-02,Sensor Issue,True,15.6
+1156,2402,2025-03-26,Installation Follow-up,True,1.0
+1157,2402,2025-02-21,Installation Follow-up,True,20.3
+1158,2425,2024-10-06,Connectivity,False,20.3
+1159,2425,2024-10-20,Sensor Issue,True,26.3
+1160,2425,2024-10-24,Billing,True,22.9
+1161,2425,2024-09-14,Installation Follow-up,True,15.1
+1162,2428,2024-11-11,Installation Follow-up,True,11.4
+1163,2429,2025-07-16,Installation Follow-up,True,19.5
+1164,2440,2024-04-04,Sensor Issue,True,11.2
+1165,2440,2024-04-09,App/Login,True,45.0
+1166,2440,2024-04-04,Sensor Issue,True,8.8
+1167,2449,2025-08-26,Sensor Issue,True,14.8
+1168,2451,2025-10-29,Connectivity,True,15.5
+1169,2451,2025-09-06,Connectivity,True,2.0
+1170,2451,2025-10-26,Installation Follow-up,True,13.7
+1171,2451,2025-09-15,Connectivity,True,6.2
+1172,2452,2025-11-29,Sensor Issue,True,18.6
+1173,2455,2025-09-02,Sensor Issue,True,21.5
+1174,2468,2025-06-01,Billing,True,23.9
+1175,2469,2024-01-28,Installation Follow-up,True,13.4
+1176,2470,2024-08-02,False Alarm,True,41.8
+1177,2470,2024-06-17,Connectivity,True,25.6
+1178,2473,2024-11-12,Installation Follow-up,True,1.0
+1179,2473,2024-11-03,Installation Follow-up,True,19.2
+1180,2473,2024-12-16,Connectivity,True,32.3
+1181,2473,2024-12-05,Sensor Issue,True,11.7
+1182,2480,2024-04-28,Sensor Issue,True,14.6
+1183,2480,2024-05-12,App/Login,True,25.4
+1184,2481,2025-06-02,False Alarm,True,20.5
+1185,2483,2024-05-25,Installation Follow-up,True,13.6
+1186,2483,2024-06-15,Sensor Issue,True,30.8
+1187,2485,2024-11-04,Connectivity,True,36.7
+1188,2486,2024-10-05,False Alarm,True,32.4
+1189,2486,2024-11-18,Sensor Issue,True,16.3
+1190,2494,2025-03-24,App/Login,True,21.1
+1191,2504,2024-04-09,False Alarm,True,21.9
+1192,2504,2024-04-27,Installation Follow-up,True,15.4
+1193,2506,2024-05-24,False Alarm,True,19.4
+1194,2507,2025-01-09,Installation Follow-up,True,10.9
+1195,2513,2025-12-20,Sensor Issue,True,17.9
+1196,2513,2026-01-12,Sensor Issue,True,16.8
+1197,2513,2025-12-26,False Alarm,True,21.4
+1198,2516,2025-08-24,Billing,True,33.7
+1199,2518,2025-03-12,App/Login,True,12.5
+1200,2523,2024-06-07,Connectivity,True,18.4
+1201,2524,2024-10-29,Installation Follow-up,True,1.0
+1202,2527,2025-01-07,Sensor Issue,True,18.6
+1203,2531,2025-11-09,Installation Follow-up,True,13.7
+1204,2531,2025-11-14,App/Login,True,27.6
+1205,2532,2025-08-23,Installation Follow-up,True,3.0
+1206,2533,2025-12-29,App/Login,True,8.5
+1207,2548,2025-04-17,Connectivity,True,19.0
+1208,2550,2024-04-11,Billing,True,10.7
+1209,2553,2024-07-11,False Alarm,True,26.0
+1210,2553,2024-06-23,Connectivity,True,14.6
+1211,2553,2024-07-11,Installation Follow-up,True,11.6
+1212,2556,2024-04-21,Billing,True,13.0
+1213,2556,2024-04-09,False Alarm,True,5.5
+1214,2556,2024-04-13,Sensor Issue,True,17.5
+1215,2557,2025-09-11,Sensor Issue,True,19.3
+1216,2558,2025-10-02,App/Login,True,9.4
+1217,2561,2025-03-15,Billing,False,45.2
+1218,2562,2024-11-16,App/Login,True,30.8
+1219,2562,2024-11-03,App/Login,True,32.2
+1220,2562,2024-10-10,Sensor Issue,True,31.7
+1221,2564,2024-10-29,Billing,True,23.8
+1222,2564,2024-10-27,Connectivity,True,16.3
+1223,2564,2024-12-15,Installation Follow-up,True,1.0
+1224,2564,2024-11-11,Sensor Issue,True,8.2
+1225,2568,2025-04-20,Connectivity,True,19.6
+1226,2568,2025-05-06,Installation Follow-up,True,30.0
+1227,2569,2024-10-11,Connectivity,True,32.5
+1228,2570,2025-12-04,Installation Follow-up,True,12.3
+1229,2577,2024-09-01,Connectivity,True,20.1
+1230,2578,2025-01-06,False Alarm,True,5.0
+1231,2580,2025-03-24,Sensor Issue,True,1.0
+1232,2581,2024-11-12,Billing,True,26.0
+1233,2581,2024-12-03,False Alarm,True,20.3
+1234,2582,2024-12-31,False Alarm,True,25.3
+1235,2582,2025-01-01,Installation Follow-up,True,15.4
+1236,2587,2024-11-07,Connectivity,True,8.9
+1237,2587,2024-10-01,False Alarm,True,5.6
+1238,2587,2024-11-23,Sensor Issue,True,33.9
+1239,2587,2024-10-19,Installation Follow-up,True,31.8
+1240,2590,2024-09-27,Installation Follow-up,True,9.3
+1241,2590,2024-09-18,False Alarm,True,12.5
+1242,2595,2024-10-02,False Alarm,True,17.1
+1243,2596,2024-06-09,Installation Follow-up,True,4.8
+1244,2602,2024-07-29,Sensor Issue,True,10.0
+1245,2602,2024-06-09,App/Login,True,33.2
+1246,2602,2024-06-18,Installation Follow-up,True,7.0
+1247,2603,2025-07-31,Sensor Issue,True,17.3
+1248,2605,2025-07-18,Connectivity,True,16.3
+1249,2607,2025-03-05,Installation Follow-up,True,12.4
+1250,2610,2025-09-23,Installation Follow-up,True,27.7
+1251,2611,2026-01-12,Sensor Issue,True,1.0
+1252,2612,2025-11-20,Sensor Issue,True,16.3
+1253,2614,2025-04-24,Sensor Issue,True,15.1
+1254,2617,2026-02-03,App/Login,False,19.1
+1255,2618,2024-02-14,Sensor Issue,True,32.9
+1256,2619,2025-05-10,Installation Follow-up,False,15.0
+1257,2619,2025-05-04,Installation Follow-up,True,25.2
+1258,2630,2024-03-08,False Alarm,True,22.6
+1259,2630,2024-03-10,App/Login,True,34.5
+1260,2630,2024-02-03,False Alarm,True,11.0
+1261,2630,2024-02-13,Sensor Issue,True,31.2
+1262,2633,2025-11-07,Sensor Issue,True,18.2
+1263,2634,2025-04-01,Connectivity,True,28.2
+1264,2634,2025-03-17,App/Login,True,8.4
+1265,2634,2025-03-08,Sensor Issue,True,21.0
+1266,2635,2024-03-08,Installation Follow-up,True,40.6
+1267,2635,2024-04-25,Connectivity,True,17.9
+1268,2636,2024-02-11,Connectivity,True,10.3
+1269,2641,2024-07-15,Installation Follow-up,True,29.2
+1270,2642,2025-01-17,False Alarm,True,24.8
+1271,2642,2025-02-13,Connectivity,True,14.6
+1272,2645,2025-01-10,Installation Follow-up,True,21.3
+1273,2653,2025-12-30,Sensor Issue,True,1.0
+1274,2654,2024-09-30,Installation Follow-up,True,23.6
+1275,2665,2024-07-04,False Alarm,True,22.1
+1276,2666,2025-03-01,Connectivity,True,9.7
+1277,2667,2024-07-14,False Alarm,True,18.2
+1278,2667,2024-06-29,Sensor Issue,True,25.5
+1279,2675,2025-12-25,Connectivity,True,30.1
+1280,2675,2025-12-27,Billing,True,1.0
+1281,2675,2025-11-22,Sensor Issue,True,26.7
+1282,2680,2024-11-12,Sensor Issue,False,24.7
+1283,2680,2024-10-18,False Alarm,True,12.1
+1284,2696,2024-10-13,App/Login,True,22.6
+1285,2697,2024-05-21,Sensor Issue,False,8.1
+1286,2697,2024-05-08,Installation Follow-up,False,18.6
+1287,2704,2025-09-17,Installation Follow-up,True,22.5
+1288,2720,2024-06-25,App/Login,True,7.0
+1289,2723,2024-04-19,Sensor Issue,True,28.3
+1290,2727,2024-05-20,False Alarm,True,26.9
+1291,2727,2024-05-06,Sensor Issue,True,1.0
+1292,2733,2026-01-09,False Alarm,True,17.3
+1293,2733,2025-12-10,Sensor Issue,True,5.9
+1294,2734,2024-07-10,False Alarm,True,22.0
+1295,2734,2024-07-02,Sensor Issue,True,40.0
+1296,2734,2024-07-08,Sensor Issue,True,1.0
+1297,2734,2024-07-07,Installation Follow-up,False,27.0
+1298,2736,2024-04-13,App/Login,False,26.7
+1299,2736,2024-06-06,Sensor Issue,True,7.6
+1300,2736,2024-04-24,Sensor Issue,True,25.3
+1301,2738,2024-06-10,App/Login,True,25.4
+1302,2740,2024-09-24,False Alarm,True,26.3
+1303,2742,2024-04-04,App/Login,True,8.5
+1304,2746,2024-12-10,App/Login,True,1.0
+1305,2750,2026-01-20,Billing,True,23.8
+1306,2753,2025-04-25,Sensor Issue,False,13.3
+1307,2754,2025-04-27,App/Login,True,16.4
+1308,2756,2025-11-27,Connectivity,True,27.0
+1309,2756,2025-11-24,App/Login,True,10.8
+1310,2760,2024-12-31,Installation Follow-up,True,6.9
+1311,2770,2026-01-17,Installation Follow-up,True,29.9
+1312,2772,2024-02-26,False Alarm,True,4.5
+1313,2772,2024-02-29,Connectivity,True,22.3
+1314,2772,2024-01-30,Sensor Issue,True,4.6
+1315,2774,2025-07-16,App/Login,True,21.3
+1316,2778,2025-11-26,Billing,True,23.7
+1317,2778,2025-12-14,Sensor Issue,True,39.3
+1318,2781,2024-09-07,Billing,True,26.5
+1319,2787,2024-09-03,Installation Follow-up,True,3.6
+1320,2787,2024-08-07,Installation Follow-up,True,16.9
+1321,2787,2024-09-05,App/Login,True,28.6
+1322,2787,2024-07-27,App/Login,True,29.3
+1323,2792,2024-06-20,App/Login,True,20.3
+1324,2792,2024-06-03,False Alarm,True,24.3
+1325,2792,2024-06-02,App/Login,True,9.6
+1326,2799,2025-07-05,Connectivity,True,2.0
+1327,2799,2025-06-13,Connectivity,True,27.3
+1328,2799,2025-06-22,Connectivity,True,9.5
+1329,2802,2024-12-25,False Alarm,True,21.0
+1330,2802,2024-11-25,False Alarm,True,13.5
+1331,2806,2025-12-25,Sensor Issue,True,34.1
+1332,2806,2025-12-15,False Alarm,True,30.5
+1333,2819,2024-04-18,App/Login,True,5.8
+1334,2819,2024-04-17,False Alarm,True,15.2
+1335,2819,2024-04-18,False Alarm,True,25.5
+1336,2821,2025-02-04,False Alarm,True,7.4
+1337,2822,2025-10-03,Connectivity,True,17.6
+1338,2823,2024-05-30,False Alarm,True,14.9
+1339,2823,2024-05-09,Connectivity,True,9.4
+1340,2829,2025-05-03,Connectivity,True,9.0
+1341,2831,2025-12-31,App/Login,True,15.1
+1342,2831,2025-11-07,Connectivity,True,25.5
+1343,2831,2025-11-06,Sensor Issue,True,1.7
+1344,2832,2025-09-30,Billing,True,16.9
+1345,2840,2025-12-28,Connectivity,True,13.2
+1346,2841,2024-12-09,Installation Follow-up,True,18.7
+1347,2853,2024-04-07,App/Login,True,24.4
+1348,2853,2024-05-18,False Alarm,True,36.3
+1349,2857,2025-03-25,Connectivity,True,6.7
+1350,2857,2025-03-10,Installation Follow-up,True,22.2
+1351,2857,2025-03-10,Installation Follow-up,True,7.6
+1352,2857,2025-03-15,Installation Follow-up,True,21.1
+1353,2862,2025-11-13,Connectivity,True,10.3
+1354,2864,2025-05-19,Billing,True,4.2
+1355,2872,2026-02-07,Billing,True,28.2
+1356,2872,2025-12-20,Connectivity,True,10.0
+1357,2880,2025-12-21,Billing,True,32.1
+1358,2887,2025-12-11,False Alarm,True,2.6
+1359,2890,2024-05-25,Connectivity,True,11.8
+1360,2890,2024-06-15,Sensor Issue,True,11.5
+1361,2891,2024-04-30,Connectivity,False,14.4
+1362,2893,2024-10-25,False Alarm,True,13.1
+1363,2900,2024-06-20,False Alarm,True,25.9
+1364,2903,2025-11-08,Connectivity,True,4.8
+1365,2903,2025-10-30,Billing,True,19.2
+1366,2903,2025-10-31,False Alarm,True,31.7
+1367,2903,2025-09-30,Connectivity,True,26.3
+1368,2909,2024-04-29,Installation Follow-up,True,26.0
+1369,2909,2024-05-02,Installation Follow-up,True,14.9
+1370,2911,2024-04-13,Sensor Issue,True,6.2
+1371,2911,2024-04-13,False Alarm,True,29.6
+1372,2913,2025-01-31,Sensor Issue,True,18.1
+1373,2917,2025-04-29,False Alarm,True,31.7
+1374,2919,2025-10-04,Installation Follow-up,True,16.3
+1375,2924,2025-03-13,Installation Follow-up,True,1.0
+1376,2927,2025-05-13,App/Login,True,24.1
+1377,2929,2024-07-10,Installation Follow-up,True,24.5
+1378,2929,2024-06-17,App/Login,True,18.1
+1379,2930,2025-05-20,App/Login,False,24.0
+1380,2936,2024-08-03,Billing,True,21.9
+1381,2945,2025-10-03,Billing,True,5.4
+1382,2945,2025-09-02,Installation Follow-up,True,21.0
+1383,2946,2024-05-08,App/Login,True,21.5
+1384,2952,2025-02-06,Installation Follow-up,True,36.7
+1385,2955,2024-07-27,False Alarm,True,29.3
+1386,2961,2025-11-29,Connectivity,True,4.2
+1387,2967,2024-07-14,App/Login,True,11.5
+1388,2969,2025-06-28,Sensor Issue,True,6.3
+1389,2970,2025-05-02,Sensor Issue,True,23.9
+1390,2972,2024-03-10,Installation Follow-up,True,21.4
+1391,2972,2024-03-03,App/Login,True,14.5
+1392,2972,2024-03-21,Installation Follow-up,True,15.7
+1393,2972,2024-03-28,App/Login,True,14.6
+1394,2974,2025-12-20,App/Login,True,27.7
+1395,2974,2026-01-07,Connectivity,True,18.7
+1396,2979,2024-09-19,App/Login,True,19.3
+1397,2981,2025-06-22,Connectivity,True,23.1
+1398,2981,2025-06-15,Installation Follow-up,True,13.9
+1399,2981,2025-07-22,False Alarm,True,1.0
+1400,2987,2025-08-12,App/Login,True,16.1
+1401,2988,2025-09-20,Connectivity,True,37.4
+1402,2989,2025-12-12,App/Login,True,8.0
+1403,2992,2025-05-13,Billing,True,7.0
+1404,2992,2025-06-07,Installation Follow-up,True,32.8
+1405,2992,2025-04-26,Connectivity,True,3.5
+1406,2998,2024-10-16,App/Login,True,14.6
+1407,2998,2024-10-16,False Alarm,True,2.2
+1408,3000,2025-05-30,Sensor Issue,True,15.6
+1409,3002,2025-06-24,Sensor Issue,True,31.8
+1410,3002,2025-05-24,Connectivity,True,27.9
+1411,3002,2025-05-20,Connectivity,True,23.4
+1412,3003,2025-12-22,Sensor Issue,True,19.3
+1413,3003,2025-12-17,Sensor Issue,True,30.6
+1414,3003,2025-11-19,Connectivity,True,13.7
+1415,3003,2025-12-23,False Alarm,True,25.3
+1416,3008,2025-01-03,Billing,True,21.8
+1417,3008,2024-11-18,Sensor Issue,True,12.2
+1418,3015,2024-12-24,App/Login,True,25.4
+1419,3015,2025-01-28,Installation Follow-up,True,26.2
+1420,3016,2025-01-28,Installation Follow-up,True,26.5
+1421,3016,2024-12-16,False Alarm,True,1.0
+1422,3017,2025-02-20,Billing,True,1.0
+1423,3022,2024-05-15,App/Login,True,1.0
+1424,3022,2024-05-17,Billing,True,36.2
+1425,3023,2024-12-01,Sensor Issue,True,20.7
+1426,3025,2024-10-24,False Alarm,True,21.2
+1427,3029,2024-06-24,Installation Follow-up,False,13.3
+1428,3029,2024-08-09,False Alarm,True,19.6
+1429,3033,2025-04-05,False Alarm,True,16.2
+1430,3033,2025-03-05,Installation Follow-up,True,8.7
+1431,3034,2024-05-13,Installation Follow-up,True,2.1
+1432,3039,2024-08-21,Billing,True,18.8
+1433,3039,2024-09-13,Connectivity,True,6.8
+1434,3039,2024-09-01,Billing,False,24.3
+1435,3039,2024-08-27,Sensor Issue,True,2.8
+1436,3042,2024-09-24,Sensor Issue,True,13.2
+1437,3042,2024-09-19,Installation Follow-up,True,40.0
+1438,3042,2024-09-08,Billing,False,11.0
+1439,3044,2025-02-26,Installation Follow-up,True,28.1
+1440,3045,2024-05-22,False Alarm,True,21.4
+1441,3045,2024-05-21,Sensor Issue,True,30.3
+1442,3045,2024-06-04,App/Login,True,11.8
+1443,3045,2024-06-13,Installation Follow-up,False,21.3
+1444,3046,2025-12-02,False Alarm,True,9.7
+1445,3047,2025-06-23,Sensor Issue,True,20.4
+1446,3048,2025-09-07,Billing,True,18.2
+1447,3051,2025-10-12,Installation Follow-up,True,21.6
+1448,3071,2024-12-05,False Alarm,True,5.8
+1449,3074,2025-08-12,Sensor Issue,True,17.0
+1450,3075,2025-04-14,Connectivity,True,27.2
+1451,3077,2024-04-16,Installation Follow-up,False,17.3
+1452,3078,2025-10-07,Sensor Issue,True,18.8
+1453,3079,2024-06-04,False Alarm,True,1.0
+1454,3080,2024-12-06,Installation Follow-up,True,17.0
+1455,3081,2025-01-11,Installation Follow-up,True,23.3
+1456,3081,2024-12-05,Connectivity,True,22.7
+1457,3081,2024-11-22,Installation Follow-up,True,42.3
+1458,3081,2024-12-16,App/Login,True,19.9
+1459,3086,2024-11-08,Installation Follow-up,True,23.2
+1460,3090,2025-01-02,App/Login,True,25.5
+1461,3095,2025-12-26,Connectivity,True,36.0
+1462,3097,2024-06-11,Sensor Issue,True,2.0
+1463,3098,2024-10-16,Connectivity,True,21.6
+1464,3106,2024-09-27,False Alarm,True,19.0
+1465,3106,2024-08-17,App/Login,False,17.4
+1466,3120,2025-09-28,Sensor Issue,True,20.3
+1467,3120,2025-10-28,Installation Follow-up,True,9.7
+1468,3125,2024-12-28,Sensor Issue,True,5.7
+1469,3125,2024-12-09,Installation Follow-up,True,34.3
+1470,3130,2025-09-06,App/Login,False,12.3
+1471,3133,2025-08-06,Sensor Issue,True,23.8
+1472,3137,2025-03-17,Installation Follow-up,True,36.2
+1473,3139,2025-01-17,False Alarm,True,14.9
+1474,3144,2025-03-31,False Alarm,False,8.9
+1475,3144,2025-04-14,Sensor Issue,False,18.0
+1476,3145,2025-08-11,Sensor Issue,True,32.5
+1477,3147,2025-05-18,Connectivity,True,19.9
+1478,3147,2025-05-06,Connectivity,True,25.7
+1479,3147,2025-05-07,Installation Follow-up,True,4.3
+1480,3150,2024-05-07,App/Login,True,9.6
+1481,3150,2024-04-19,App/Login,False,14.1
+1482,3150,2024-04-17,Sensor Issue,False,22.8
+1483,3150,2024-05-14,Sensor Issue,True,31.3
+1484,3153,2024-05-30,Billing,True,24.9
+1485,3153,2024-05-28,False Alarm,True,33.3
+1486,3154,2025-08-23,Billing,True,33.2
+1487,3155,2024-03-20,Connectivity,True,21.9
+1488,3155,2024-03-16,Installation Follow-up,True,27.6
+1489,3155,2024-04-02,False Alarm,True,22.2
+1490,3160,2025-10-27,App/Login,True,5.2
+1491,3160,2025-10-01,App/Login,True,12.1
+1492,3161,2024-04-08,False Alarm,True,21.9
+1493,3161,2024-04-05,Sensor Issue,True,14.5
+1494,3161,2024-05-15,Billing,True,22.4
+1495,3163,2024-05-16,False Alarm,True,17.5
+1496,3163,2024-06-18,Sensor Issue,True,1.0
+1497,3169,2025-09-28,Billing,True,1.0
+1498,3169,2025-10-11,Sensor Issue,True,15.9
+1499,3169,2025-10-04,Sensor Issue,True,9.7
+1500,3179,2024-07-07,Connectivity,True,30.9
+1501,3179,2024-07-05,Connectivity,True,2.0
+1502,3186,2026-01-04,App/Login,True,28.2
+1503,3190,2025-10-06,App/Login,True,22.7
+1504,3192,2025-05-25,Installation Follow-up,True,3.8
+1505,3193,2025-06-16,Sensor Issue,True,11.6
+1506,3195,2025-06-26,Installation Follow-up,True,36.2
+1507,3203,2025-09-14,Connectivity,True,25.6
+1508,3207,2026-03-01,App/Login,True,10.3
+1509,3209,2024-11-13,Connectivity,True,23.5
+1510,3209,2024-11-06,Billing,True,8.2
+1511,3215,2025-04-11,False Alarm,True,13.3
+1512,3215,2025-03-17,Installation Follow-up,True,30.8
+1513,3231,2025-10-20,Sensor Issue,True,1.0
+1514,3233,2025-06-18,Connectivity,True,10.1
+1515,3236,2025-03-21,App/Login,True,29.3
+1516,3239,2025-11-17,Connectivity,True,20.2
+1517,3240,2024-03-23,Sensor Issue,True,6.2
+1518,3240,2024-03-09,Connectivity,True,20.0
+1519,3241,2024-06-25,Billing,True,19.3
+1520,3247,2025-09-01,Installation Follow-up,True,1.0
+1521,3249,2024-05-05,Connectivity,False,15.5
+1522,3249,2024-06-10,Connectivity,True,1.0
+1523,3252,2025-07-17,App/Login,True,21.9
+1524,3253,2024-05-10,Sensor Issue,True,30.8
+1525,3255,2024-08-01,Installation Follow-up,True,18.0
+1526,3255,2024-07-27,False Alarm,True,28.7
+1527,3261,2024-12-18,Installation Follow-up,True,34.7
+1528,3261,2024-12-24,False Alarm,True,13.7
+1529,3264,2025-11-09,False Alarm,True,25.8
+1530,3264,2025-11-07,Installation Follow-up,True,33.6
+1531,3269,2024-04-12,Installation Follow-up,True,30.0
+1532,3278,2024-07-17,False Alarm,True,9.2
+1533,3284,2024-04-13,App/Login,True,36.2
+1534,3284,2024-03-12,Installation Follow-up,True,23.5
+1535,3294,2024-09-08,App/Login,True,23.8
+1536,3295,2024-06-24,Billing,True,32.5
+1537,3298,2025-12-09,App/Login,True,2.9
+1538,3298,2025-11-17,Billing,True,22.2
+1539,3303,2025-04-21,Sensor Issue,True,19.7
+1540,3303,2025-05-08,False Alarm,True,16.8
+1541,3306,2024-08-19,Sensor Issue,True,34.2
+1542,3317,2025-06-05,Installation Follow-up,True,11.2
+1543,3317,2025-04-13,Sensor Issue,False,10.4
+1544,3317,2025-04-08,False Alarm,True,13.2
+1545,3319,2024-08-09,False Alarm,False,36.1
+1546,3327,2024-06-04,Connectivity,False,5.9
+1547,3327,2024-05-17,App/Login,True,14.6
+1548,3327,2024-05-30,App/Login,True,15.4
+1549,3327,2024-06-02,Installation Follow-up,True,5.4
+1550,3329,2024-10-15,Installation Follow-up,True,14.5
+1551,3336,2024-06-29,Sensor Issue,True,24.4
+1552,3336,2024-08-12,Sensor Issue,True,17.2
+1553,3336,2024-07-09,False Alarm,True,11.2
+1554,3339,2025-11-08,False Alarm,True,25.4
+1555,3345,2025-02-02,Installation Follow-up,True,12.1
+1556,3346,2025-08-09,Installation Follow-up,True,24.8
+1557,3346,2025-08-06,Installation Follow-up,True,23.8
+1558,3349,2024-05-07,Connectivity,True,27.4
+1559,3355,2026-01-27,App/Login,True,5.8
+1560,3355,2026-01-13,Installation Follow-up,True,14.2
+1561,3359,2024-06-06,False Alarm,True,7.9
+1562,3359,2024-07-04,App/Login,True,18.2
+1563,3367,2025-05-11,Sensor Issue,True,26.8
+1564,3367,2025-03-30,Connectivity,True,20.8
+1565,3367,2025-05-17,Sensor Issue,False,11.9
+1566,3369,2024-12-12,False Alarm,True,14.8
+1567,3369,2024-11-13,App/Login,True,6.7
+1568,3369,2024-12-20,Sensor Issue,True,23.6
+1569,3370,2024-04-16,App/Login,True,10.9
+1570,3370,2024-04-16,Billing,True,13.6
+1571,3370,2024-05-08,Connectivity,False,8.8
+1572,3371,2026-01-30,Installation Follow-up,True,26.1
+1573,3375,2025-06-08,Sensor Issue,True,30.4
+1574,3376,2025-01-27,Connectivity,True,25.7
+1575,3378,2025-03-29,Sensor Issue,True,26.7
+1576,3384,2025-11-23,Billing,True,11.7
+1577,3389,2024-08-19,Sensor Issue,True,13.0
+1578,3393,2025-09-08,Billing,True,21.7
+1579,3395,2024-10-18,Billing,True,27.0
+1580,3397,2024-12-26,False Alarm,True,7.4
+1581,3397,2024-12-14,App/Login,True,7.4
+1582,3398,2025-12-28,Billing,True,16.7
+1583,3403,2024-06-01,Sensor Issue,True,9.5
+1584,3403,2024-06-11,False Alarm,True,23.3
+1585,3420,2024-08-17,False Alarm,True,25.9
+1586,3420,2024-09-09,Sensor Issue,True,38.3
+1587,3424,2024-10-25,Connectivity,True,24.2
+1588,3424,2024-10-31,Connectivity,False,17.0
+1589,3437,2024-09-25,Billing,True,24.9
+1590,3438,2025-06-24,Sensor Issue,True,29.2
+1591,3438,2025-04-26,Installation Follow-up,True,16.6
+1592,3439,2025-12-27,False Alarm,True,20.0
+1593,3441,2026-01-05,False Alarm,True,2.4
+1594,3448,2025-04-12,False Alarm,True,39.2
+1595,3449,2025-04-04,App/Login,True,20.5
+1596,3450,2025-02-04,Installation Follow-up,True,9.1
+1597,3452,2024-03-14,Connectivity,True,30.3
+1598,3453,2024-12-29,Billing,True,15.3
+1599,3454,2024-10-30,False Alarm,True,23.8
+1600,3455,2025-10-15,False Alarm,False,10.7
+1601,3456,2025-11-07,False Alarm,True,17.9
+1602,3456,2025-11-05,Installation Follow-up,True,21.4
+1603,3456,2025-11-19,False Alarm,True,23.3
+1604,3461,2024-11-11,Connectivity,True,26.3
+1605,3467,2025-03-29,False Alarm,True,23.2
+1606,3470,2025-09-25,Billing,True,26.2
+1607,3476,2024-07-02,Sensor Issue,True,1.3
+1608,3478,2025-02-24,App/Login,True,28.0
+1609,3479,2024-11-24,Sensor Issue,True,35.2
+1610,3479,2024-11-16,False Alarm,False,1.0
+1611,3480,2025-09-02,Billing,True,5.6
+1612,3482,2024-08-19,Sensor Issue,True,33.8
+1613,3487,2024-10-14,Installation Follow-up,True,27.5
+1614,3490,2025-07-13,False Alarm,True,12.9
+1615,3490,2025-06-15,App/Login,True,12.8
+1616,3490,2025-07-13,App/Login,True,19.1
+1617,3495,2025-11-10,Sensor Issue,True,14.6
+1618,3499,2024-04-03,Connectivity,True,22.1
+1619,3499,2024-03-31,Billing,True,12.6
+1620,3499,2024-04-29,False Alarm,False,15.1
+1621,3499,2024-05-20,Installation Follow-up,True,24.9
+1622,3505,2024-02-07,Installation Follow-up,True,24.6
+1623,3506,2025-11-21,Sensor Issue,True,16.0
+1624,3510,2024-10-24,Installation Follow-up,True,33.0
+1625,3511,2026-01-02,App/Login,True,25.2
+1626,3511,2026-01-24,Installation Follow-up,True,11.5
+1627,3515,2024-09-04,Connectivity,True,30.7
+1628,3519,2025-06-30,Sensor Issue,True,19.3
+1629,3520,2025-11-26,Installation Follow-up,True,14.0
+1630,3524,2024-06-27,App/Login,True,16.0
+1631,3524,2024-06-03,App/Login,True,15.4
+1632,3527,2024-05-04,Installation Follow-up,True,24.5
+1633,3527,2024-04-08,False Alarm,True,16.3
+1634,3527,2024-05-21,Connectivity,False,12.4
+1635,3530,2024-04-15,False Alarm,True,8.6
+1636,3530,2024-05-16,App/Login,True,21.6
+1637,3530,2024-05-22,Sensor Issue,True,19.4
+1638,3531,2024-11-03,Installation Follow-up,True,10.2
+1639,3533,2024-03-25,Sensor Issue,True,25.6
+1640,3536,2024-03-17,Sensor Issue,True,1.0
+1641,3536,2024-04-11,Sensor Issue,True,22.6
+1642,3536,2024-04-21,App/Login,True,12.4
+1643,3538,2024-05-04,Installation Follow-up,True,1.0
+1644,3541,2025-06-27,Connectivity,True,20.3
+1645,3543,2024-05-01,Sensor Issue,True,46.2
+1646,3543,2024-04-29,False Alarm,True,15.9
+1647,3544,2025-08-30,False Alarm,True,31.8
+1648,3547,2024-11-10,Connectivity,True,23.0
+1649,3548,2025-11-20,False Alarm,True,19.3
+1650,3550,2025-05-08,False Alarm,True,23.0
+1651,3552,2025-01-29,App/Login,True,17.6
+1652,3552,2025-02-15,App/Login,True,16.3
+1653,3554,2025-06-05,Installation Follow-up,True,28.2
+1654,3555,2024-11-09,Installation Follow-up,True,14.3
+1655,3555,2024-12-04,App/Login,True,30.9
+1656,3555,2024-11-09,Connectivity,True,21.4
+1657,3555,2024-11-01,Connectivity,True,27.2
+1658,3558,2024-10-29,App/Login,False,35.5
+1659,3559,2024-05-11,False Alarm,True,22.5
+1660,3563,2024-12-28,App/Login,True,11.2
+1661,3564,2025-09-10,False Alarm,True,14.4
+1662,3564,2025-08-26,Installation Follow-up,True,21.4
+1663,3568,2024-04-23,False Alarm,True,27.1
+1664,3568,2024-06-05,False Alarm,True,29.1
+1665,3569,2025-07-27,Sensor Issue,True,39.9
+1666,3573,2025-05-24,Installation Follow-up,True,16.7
+1667,3573,2025-05-19,Sensor Issue,True,26.7
+1668,3573,2025-07-15,False Alarm,True,22.4
+1669,3573,2025-05-22,Billing,True,14.5
+1670,3574,2024-09-13,Sensor Issue,True,12.3
+1671,3575,2025-12-18,App/Login,True,26.3
+1672,3575,2025-12-05,Sensor Issue,False,19.7
+1673,3575,2025-11-30,Billing,True,26.9
+1674,3584,2024-09-05,App/Login,False,10.0
+1675,3586,2024-06-22,App/Login,False,16.4
+1676,3586,2024-07-24,False Alarm,True,20.8
+1677,3601,2025-01-04,Installation Follow-up,True,15.6
+1678,3602,2025-05-16,Installation Follow-up,True,40.4
+1679,3602,2025-04-28,Sensor Issue,False,13.6
+1680,3602,2025-05-17,App/Login,True,27.6
+1681,3610,2025-05-17,App/Login,False,13.3
+1682,3612,2025-05-30,False Alarm,True,32.6
+1683,3613,2025-05-10,Connectivity,True,31.2
+1684,3614,2024-03-11,False Alarm,True,6.6
+1685,3625,2025-10-27,Sensor Issue,True,25.3
+1686,3629,2025-10-15,Billing,True,7.9
+1687,3629,2025-09-20,Installation Follow-up,True,9.1
+1688,3629,2025-09-18,False Alarm,True,4.5
+1689,3631,2025-01-23,Sensor Issue,True,29.1
+1690,3637,2025-03-09,Billing,True,17.6
+1691,3643,2026-01-02,Sensor Issue,True,17.6
+1692,3645,2025-12-08,Sensor Issue,True,18.1
+1693,3646,2025-02-21,False Alarm,True,18.4
+1694,3646,2025-03-12,Sensor Issue,True,10.7
+1695,3652,2024-04-01,False Alarm,True,19.6
+1696,3653,2024-11-27,Sensor Issue,True,26.4
+1697,3653,2024-11-24,Installation Follow-up,True,17.6
+1698,3653,2024-12-14,Installation Follow-up,True,9.9
+1699,3656,2025-01-27,App/Login,True,33.5
+1700,3656,2024-12-26,Billing,True,13.8
+1701,3659,2024-10-06,Installation Follow-up,True,13.8
+1702,3660,2025-01-23,Sensor Issue,True,38.5
+1703,3660,2025-02-17,Installation Follow-up,True,9.9
+1704,3661,2025-04-05,Sensor Issue,True,25.0
+1705,3662,2025-01-14,Connectivity,True,26.2
+1706,3662,2024-12-24,Installation Follow-up,True,23.6
+1707,3662,2025-01-02,Sensor Issue,True,20.2
+1708,3664,2026-01-03,Installation Follow-up,True,1.0
+1709,3664,2025-12-05,Connectivity,True,5.0
+1710,3664,2026-01-13,Sensor Issue,True,18.4
+1711,3666,2024-12-16,Installation Follow-up,True,40.4
+1712,3667,2025-04-14,App/Login,False,15.3
+1713,3667,2025-04-07,Installation Follow-up,True,39.0
+1714,3672,2024-03-11,Installation Follow-up,True,20.5
+1715,3672,2024-03-29,False Alarm,True,16.5
+1716,3676,2024-12-14,Billing,True,11.3
+1717,3677,2024-10-10,False Alarm,True,8.7
+1718,3679,2025-02-03,Connectivity,True,26.8
+1719,3681,2025-06-19,Sensor Issue,True,12.7
+1720,3685,2025-12-26,Sensor Issue,True,14.1
+1721,3690,2024-06-03,False Alarm,True,12.2
+1722,3693,2024-06-25,Sensor Issue,True,31.9
+1723,3693,2024-06-02,False Alarm,True,33.8
+1724,3693,2024-06-06,App/Login,True,13.4
+1725,3693,2024-06-22,Sensor Issue,True,14.2
+1726,3695,2024-12-10,Sensor Issue,True,14.5
+1727,3697,2024-08-17,Sensor Issue,True,10.7
+1728,3697,2024-09-15,Connectivity,True,11.1
+1729,3700,2025-08-04,Installation Follow-up,True,1.0
+1730,3703,2024-07-05,Installation Follow-up,True,1.0
+1731,3704,2025-11-18,Connectivity,True,1.0
+1732,3704,2025-12-03,Billing,True,18.8
+1733,3704,2025-10-29,App/Login,True,25.3
+1734,3715,2025-08-11,False Alarm,True,22.1
+1735,3715,2025-07-23,Connectivity,True,25.2
+1736,3715,2025-06-23,Installation Follow-up,True,6.8
+1737,3715,2025-07-24,Installation Follow-up,True,18.5
+1738,3721,2025-04-26,False Alarm,True,1.0
+1739,3724,2026-02-03,Sensor Issue,True,16.4
+1740,3724,2026-02-04,Sensor Issue,True,20.1
+1741,3725,2024-01-09,Billing,True,18.2
+1742,3729,2024-10-20,Connectivity,True,11.1
+1743,3730,2025-05-11,Sensor Issue,True,30.1
+1744,3730,2025-05-09,Installation Follow-up,True,18.6
+1745,3732,2025-10-07,Sensor Issue,True,2.6
+1746,3733,2024-11-06,False Alarm,True,6.8
+1747,3735,2024-09-17,Installation Follow-up,True,14.1
+1748,3738,2025-02-13,Connectivity,True,27.2
+1749,3739,2025-05-04,Installation Follow-up,False,33.3
+1750,3746,2026-02-09,Installation Follow-up,True,3.5
+1751,3747,2024-12-10,Billing,True,23.1
+1752,3748,2026-01-14,Billing,False,1.0
+1753,3750,2025-11-20,False Alarm,True,1.0
+1754,3750,2025-11-11,Connectivity,False,32.8
+1755,3750,2025-12-15,App/Login,True,13.2
+1756,3752,2025-08-18,Installation Follow-up,True,19.1
+1757,3752,2025-08-26,Connectivity,True,3.3
+1758,3754,2024-08-31,Billing,True,32.6
+1759,3754,2024-09-05,Billing,True,21.3
+1760,3760,2025-03-18,App/Login,True,24.0
+1761,3760,2025-04-10,App/Login,True,19.3
+1762,3760,2025-04-06,Installation Follow-up,True,21.7
+1763,3760,2025-03-26,App/Login,True,19.8
+1764,3765,2024-10-29,Installation Follow-up,True,29.7
+1765,3765,2024-12-17,Installation Follow-up,True,22.0
+1766,3765,2024-12-16,Sensor Issue,True,15.8
+1767,3766,2024-12-08,App/Login,True,37.1
+1768,3779,2026-02-06,Installation Follow-up,True,26.7
+1769,3779,2026-02-08,Sensor Issue,True,25.4
+1770,3782,2024-06-16,Billing,True,21.2
+1771,3782,2024-07-16,Installation Follow-up,False,11.4
+1772,3782,2024-07-14,Installation Follow-up,True,10.8
+1773,3784,2025-09-01,Installation Follow-up,True,38.6
+1774,3784,2025-07-16,App/Login,True,25.2
+1775,3784,2025-07-14,Connectivity,True,1.0
+1776,3792,2024-06-07,Sensor Issue,True,10.0
+1777,3794,2025-06-15,Sensor Issue,True,11.6
+1778,3796,2024-07-27,Billing,True,16.0
+1779,3796,2024-09-09,Sensor Issue,True,10.6
+1780,3801,2025-12-25,Billing,False,29.0
+1781,3801,2026-01-02,False Alarm,True,25.1
+1782,3802,2025-03-21,False Alarm,True,7.4
+1783,3803,2025-10-02,Installation Follow-up,True,23.1
+1784,3803,2025-10-09,Installation Follow-up,True,24.5
+1785,3803,2025-08-14,Billing,True,45.6
+1786,3803,2025-08-22,Billing,True,13.4
+1787,3804,2024-01-28,Connectivity,True,19.2
+1788,3804,2024-01-23,App/Login,True,2.8
+1789,3804,2024-02-27,Sensor Issue,False,14.9
+1790,3809,2025-02-09,Connectivity,True,14.7
+1791,3809,2025-01-17,False Alarm,True,17.0
+1792,3809,2025-02-16,False Alarm,True,16.6
+1793,3812,2024-12-03,Connectivity,True,5.2
+1794,3812,2025-01-03,False Alarm,True,17.2
+1795,3812,2024-11-25,Installation Follow-up,True,33.6
+1796,3813,2025-05-26,False Alarm,False,27.9
+1797,3817,2024-12-31,Billing,True,17.7
+1798,3822,2024-02-01,Connectivity,True,30.6
+1799,3824,2024-06-24,Connectivity,True,20.4
+1800,3826,2025-11-24,App/Login,True,21.9
+1801,3829,2025-07-10,Connectivity,True,18.7
+1802,3832,2024-07-27,Installation Follow-up,True,22.2
+1803,3835,2024-04-26,Installation Follow-up,True,21.5
+1804,3835,2024-06-07,App/Login,True,22.1
+1805,3836,2025-08-03,Billing,True,19.1
+1806,3840,2025-12-28,Installation Follow-up,True,20.9
+1807,3840,2025-12-24,False Alarm,True,17.8
+1808,3844,2024-09-08,Connectivity,True,7.0
+1809,3847,2025-07-22,Connectivity,False,8.2
+1810,3847,2025-08-02,Sensor Issue,True,7.9
+1811,3848,2024-10-19,Connectivity,True,13.4
+1812,3849,2025-08-01,Sensor Issue,True,23.2
+1813,3850,2024-08-07,Connectivity,False,14.3
+1814,3856,2025-06-07,Installation Follow-up,True,27.0
+1815,3856,2025-06-27,Sensor Issue,True,23.4
+1816,3858,2024-02-22,False Alarm,False,18.0
+1817,3860,2024-11-24,Connectivity,True,45.9
+1818,3860,2024-12-03,False Alarm,True,12.2
+1819,3860,2024-11-23,App/Login,True,19.0
+1820,3860,2025-01-02,False Alarm,True,10.5
+1821,3862,2025-05-11,Sensor Issue,True,17.8
+1822,3867,2025-02-27,Connectivity,True,10.3
+1823,3867,2025-02-25,Connectivity,True,22.4
+1824,3868,2025-09-09,Sensor Issue,True,29.8
+1825,3876,2025-03-18,Installation Follow-up,True,1.6
+1826,3877,2025-06-10,Sensor Issue,True,19.2
+1827,3881,2025-11-04,App/Login,True,31.9
+1828,3883,2025-03-30,Installation Follow-up,True,34.4
+1829,3885,2024-05-03,False Alarm,True,15.8
+1830,3885,2024-05-25,Connectivity,True,16.5
+1831,3888,2024-06-15,False Alarm,False,16.7
+1832,3888,2024-06-05,False Alarm,True,16.8
+1833,3889,2024-04-16,Installation Follow-up,True,18.1
+1834,3896,2025-12-27,Connectivity,True,1.7
+1835,3899,2024-08-18,Sensor Issue,True,4.6
+1836,3899,2024-10-02,Connectivity,True,8.2
+1837,3899,2024-08-28,Billing,True,21.0
+1838,3899,2024-08-27,Installation Follow-up,True,6.1
+1839,3900,2025-11-22,Billing,True,18.7
+1840,3903,2025-02-03,Installation Follow-up,True,32.0
+1841,3903,2025-03-06,Connectivity,True,28.5
+1842,3906,2025-07-25,App/Login,True,32.0
+1843,3908,2026-01-26,Sensor Issue,True,9.4
+1844,3908,2026-01-25,App/Login,True,11.6
+1845,3908,2025-12-29,App/Login,True,18.7
+1846,3908,2026-01-29,Billing,True,28.7
+1847,3911,2024-07-27,Sensor Issue,True,1.0
+1848,3915,2025-08-28,Sensor Issue,True,19.7
+1849,3917,2024-04-06,Billing,True,27.1
+1850,3917,2024-02-20,Installation Follow-up,True,12.8
+1851,3919,2024-03-30,False Alarm,True,19.7
+1852,3919,2024-03-29,False Alarm,False,7.1
+1853,3922,2025-05-05,Sensor Issue,True,22.2
+1854,3927,2025-01-26,Billing,True,18.0
+1855,3928,2024-05-09,False Alarm,True,10.8
+1856,3928,2024-06-13,Connectivity,True,20.7
+1857,3928,2024-05-07,Connectivity,True,13.7
+1858,3928,2024-06-07,Connectivity,True,1.0
+1859,3929,2025-06-24,False Alarm,True,14.6
+1860,3929,2025-06-03,Sensor Issue,True,16.4
+1861,3932,2024-02-27,Connectivity,True,7.3
+1862,3934,2025-07-31,Connectivity,False,20.6
+1863,3934,2025-06-30,App/Login,True,4.8
+1864,3937,2025-02-16,False Alarm,True,5.8
+1865,3937,2025-03-18,Sensor Issue,True,7.2
+1866,3938,2025-01-20,App/Login,True,7.8
+1867,3938,2025-01-24,Installation Follow-up,True,1.0
+1868,3938,2025-01-26,False Alarm,True,20.0
+1869,3940,2025-02-15,Billing,True,12.8
+1870,3945,2024-06-01,Sensor Issue,True,22.0
+1871,3945,2024-05-06,False Alarm,True,22.3
+1872,3946,2025-06-24,Sensor Issue,True,13.7
+1873,3947,2024-02-12,Sensor Issue,True,13.9
+1874,3949,2025-12-15,False Alarm,True,21.9
+1875,3949,2025-12-13,Installation Follow-up,False,24.8
+1876,3949,2026-01-20,Connectivity,True,40.6
+1877,3957,2025-02-20,Sensor Issue,True,2.4
+1878,3957,2025-02-09,Installation Follow-up,True,23.2
+1879,3957,2025-03-09,Connectivity,True,14.4
+1880,3957,2025-03-06,Installation Follow-up,True,10.6
+1881,3958,2025-07-31,False Alarm,True,25.7
+1882,3958,2025-08-08,Installation Follow-up,True,22.4
+1883,3961,2025-12-02,Sensor Issue,True,24.5
+1884,3961,2026-01-09,Connectivity,True,36.3
+1885,3961,2025-12-26,Installation Follow-up,True,33.9
+1886,3974,2024-09-02,Installation Follow-up,True,13.5
+1887,3974,2024-08-23,Connectivity,True,12.3
+1888,3976,2025-06-08,Installation Follow-up,True,16.3
+1889,3979,2025-02-23,Installation Follow-up,True,19.3
+1890,3979,2025-02-18,Sensor Issue,True,12.8
+1891,3984,2025-05-10,Installation Follow-up,True,23.0
+1892,3986,2024-09-12,Sensor Issue,True,11.6
+1893,3990,2024-12-28,Billing,True,13.3
+1894,3990,2024-12-24,Installation Follow-up,True,26.4
+1895,3990,2024-12-16,False Alarm,True,5.6
+1896,3990,2025-02-05,Installation Follow-up,False,43.6
+1897,3993,2024-05-30,Installation Follow-up,True,2.6
+1898,3994,2024-09-23,Sensor Issue,True,31.1
+1899,3994,2024-08-06,Sensor Issue,True,31.2
+1900,3994,2024-08-04,Sensor Issue,True,21.6
+1901,3995,2025-02-02,Installation Follow-up,True,9.4
+1902,3996,2024-10-18,Sensor Issue,True,2.9
+1903,3996,2024-09-26,Billing,True,31.1
+1904,3996,2024-10-28,False Alarm,True,23.5
+1905,3996,2024-09-02,Sensor Issue,True,11.8
+1906,3997,2024-03-19,Sensor Issue,True,24.4
+1907,4000,2025-01-29,Sensor Issue,True,7.8
+1908,4001,2024-09-08,App/Login,True,13.6
+1909,4002,2025-09-14,Sensor Issue,True,25.6
+1910,4003,2024-02-06,Installation Follow-up,True,28.8
+1911,4005,2025-09-04,Installation Follow-up,True,20.0
+1912,4008,2025-05-04,App/Login,True,15.2
+1913,4012,2025-11-26,Sensor Issue,True,22.6
+1914,4016,2024-04-29,Sensor Issue,False,7.1
+1915,4022,2024-03-23,False Alarm,True,5.1
+1916,4024,2024-09-06,Installation Follow-up,True,11.0
+1917,4029,2025-06-12,App/Login,True,9.9
+1918,4029,2025-05-25,Installation Follow-up,True,16.1
+1919,4030,2024-11-23,Billing,True,9.3
+1920,4030,2024-12-11,Installation Follow-up,True,14.1
+1921,4044,2024-04-23,False Alarm,True,17.2
+1922,4044,2024-04-12,Installation Follow-up,True,31.2
+1923,4044,2024-04-09,False Alarm,True,21.3
+1924,4050,2025-01-06,Sensor Issue,True,22.5
+1925,4052,2024-11-24,Installation Follow-up,True,21.2
+1926,4052,2024-12-08,False Alarm,True,10.1
+1927,4056,2024-10-17,False Alarm,True,27.9
+1928,4056,2024-10-31,App/Login,True,11.4
+1929,4060,2025-04-01,False Alarm,True,32.0
+1930,4062,2024-02-26,False Alarm,True,9.7
+1931,4064,2025-01-31,Billing,True,26.7
+1932,4064,2025-01-26,False Alarm,True,33.2
+1933,4064,2025-01-12,Sensor Issue,True,15.6
+1934,4064,2025-01-28,Sensor Issue,True,5.7
+1935,4073,2025-10-22,App/Login,True,1.0
+1936,4073,2025-09-29,Connectivity,True,19.1
+1937,4091,2025-08-07,App/Login,True,23.1
+1938,4092,2024-03-18,Connectivity,True,9.0
+1939,4093,2024-10-19,Connectivity,False,15.3
+1940,4094,2024-12-30,Billing,True,4.1
+1941,4095,2025-12-05,Installation Follow-up,True,25.3
+1942,4102,2026-01-10,App/Login,True,12.2
+1943,4102,2026-01-06,False Alarm,True,10.7
+1944,4106,2024-12-21,Sensor Issue,True,17.8
+1945,4111,2024-01-23,False Alarm,True,1.0
+1946,4111,2024-02-08,Connectivity,True,28.7
+1947,4111,2024-01-10,App/Login,True,10.5
+1948,4112,2024-12-28,False Alarm,True,20.6
+1949,4112,2025-01-26,False Alarm,True,12.9
+1950,4112,2025-01-05,App/Login,True,14.1
+1951,4118,2024-05-14,False Alarm,True,23.4
+1952,4121,2025-07-19,Connectivity,True,1.0
+1953,4122,2025-11-25,Connectivity,True,7.7
+1954,4123,2026-02-03,False Alarm,True,18.2
+1955,4132,2025-12-16,Sensor Issue,True,26.1
+1956,4133,2025-07-06,Installation Follow-up,True,1.0
+1957,4133,2025-06-19,App/Login,True,25.9
+1958,4134,2025-02-26,Installation Follow-up,True,34.4
+1959,4134,2025-01-21,Installation Follow-up,True,12.2
+1960,4139,2025-11-27,Sensor Issue,True,1.3
+1961,4140,2025-01-06,Installation Follow-up,True,11.9
+1962,4140,2025-02-06,Sensor Issue,True,27.1
+1963,4143,2024-05-11,Sensor Issue,True,39.3
+1964,4145,2024-04-07,Billing,True,2.5
+1965,4146,2024-08-25,Installation Follow-up,True,18.8
+1966,4147,2024-12-08,False Alarm,True,31.1
+1967,4148,2025-10-06,App/Login,True,21.4
+1968,4152,2025-03-21,Connectivity,True,29.4
+1969,4157,2025-07-24,App/Login,True,1.0
+1970,4157,2025-06-18,False Alarm,True,26.8
+1971,4158,2024-09-07,Connectivity,True,6.7
+1972,4158,2024-09-16,App/Login,True,5.1
+1973,4165,2025-06-06,False Alarm,False,12.0
+1974,4173,2025-01-27,Installation Follow-up,True,16.9
+1975,4173,2025-02-28,Connectivity,True,25.4
+1976,4174,2024-10-12,Installation Follow-up,False,14.9
+1977,4176,2024-09-20,Sensor Issue,True,16.0
+1978,4182,2024-09-27,Connectivity,True,22.6
+1979,4183,2024-04-17,Installation Follow-up,False,29.2
+1980,4192,2024-10-09,Installation Follow-up,True,20.4
+1981,4195,2025-04-09,Sensor Issue,True,11.3
+1982,4199,2025-11-30,False Alarm,True,29.7
+1983,4199,2026-01-15,Installation Follow-up,True,10.9
+1984,4199,2026-01-09,False Alarm,True,12.7
+1985,4199,2026-01-05,Installation Follow-up,True,8.5
+1986,4202,2025-08-09,Installation Follow-up,True,15.6
+1987,4204,2024-05-21,App/Login,True,28.8
+1988,4207,2025-12-11,Installation Follow-up,True,9.0
+1989,4209,2024-07-04,Sensor Issue,True,17.2
+1990,4209,2024-07-20,Billing,True,17.0
+1991,4209,2024-07-16,Sensor Issue,False,1.0
+1992,4216,2026-01-07,False Alarm,True,6.9
+1993,4217,2025-02-12,App/Login,True,1.2
+1994,4218,2024-09-13,Installation Follow-up,True,13.6
+1995,4219,2025-03-17,Installation Follow-up,True,6.1
+1996,4221,2024-03-24,Sensor Issue,True,21.1
+1997,4222,2025-02-12,App/Login,True,7.6
+1998,4223,2025-10-25,App/Login,True,15.1
+1999,4225,2025-09-17,False Alarm,True,17.2
+2000,4225,2025-09-17,Billing,True,3.0
+2001,4226,2024-07-03,Installation Follow-up,True,14.9
+2002,4228,2025-04-10,App/Login,True,18.5
+2003,4228,2025-03-27,Connectivity,True,25.0
+2004,4232,2025-12-04,False Alarm,True,19.8
+2005,4232,2025-11-30,App/Login,True,12.9
+2006,4232,2025-12-28,Sensor Issue,True,25.1
+2007,4233,2025-03-25,Billing,True,5.5
+2008,4233,2025-03-23,Connectivity,True,18.8
+2009,4240,2024-07-11,Sensor Issue,True,11.6
+2010,4245,2024-10-22,App/Login,True,8.5
+2011,4245,2024-10-30,Billing,True,30.1
+2012,4246,2024-08-27,Sensor Issue,True,32.7
+2013,4246,2024-08-20,Installation Follow-up,True,1.0
+2014,4254,2024-09-26,Sensor Issue,True,9.6
+2015,4260,2024-03-16,Billing,True,13.6
+2016,4260,2024-02-15,Billing,True,28.2
+2017,4264,2025-08-20,Connectivity,False,14.1
+2018,4264,2025-07-11,Billing,True,17.5
+2019,4266,2026-01-01,Connectivity,True,20.1
+2020,4267,2024-10-17,Connectivity,True,6.4
+2021,4270,2025-01-20,App/Login,True,29.5
+2022,4272,2025-02-06,Sensor Issue,True,18.0
+2023,4289,2025-07-27,False Alarm,True,21.3
+2024,4293,2025-01-10,Billing,True,20.0
+2025,4293,2025-01-01,App/Login,True,1.0
+2026,4293,2025-02-12,Sensor Issue,True,3.0
+2027,4293,2025-01-14,Sensor Issue,True,8.9
+2028,4302,2025-05-27,False Alarm,True,11.9
+2029,4302,2025-05-31,Sensor Issue,True,8.7
+2030,4303,2024-04-14,Connectivity,True,26.5
+2031,4304,2024-03-08,Connectivity,True,17.2
+2032,4304,2024-02-24,False Alarm,True,13.3
+2033,4306,2025-08-17,App/Login,True,15.7
+2034,4306,2025-08-26,Billing,True,19.5
+2035,4306,2025-09-01,False Alarm,True,19.2
+2036,4307,2025-08-01,False Alarm,True,13.8
+2037,4309,2025-09-04,False Alarm,True,17.7
+2038,4314,2024-04-26,Sensor Issue,True,19.9
+2039,4315,2025-08-10,False Alarm,True,11.6
+2040,4320,2024-02-01,Sensor Issue,True,1.0
+2041,4320,2024-03-02,Sensor Issue,True,17.7
+2042,4320,2024-02-01,Installation Follow-up,True,24.6
+2043,4330,2025-10-15,False Alarm,True,7.8
+2044,4330,2025-10-17,False Alarm,True,15.2
+2045,4330,2025-10-26,App/Login,True,30.3
+2046,4332,2024-07-24,Sensor Issue,True,24.6
+2047,4342,2024-11-07,Installation Follow-up,True,15.5
+2048,4345,2024-11-26,Connectivity,True,7.0
+2049,4347,2024-03-31,Sensor Issue,True,30.3
+2050,4347,2024-03-19,Installation Follow-up,True,21.1
+2051,4351,2025-04-16,False Alarm,True,34.0
+2052,4351,2025-04-26,Sensor Issue,False,37.6
+2053,4351,2025-04-09,Installation Follow-up,True,11.3
+2054,4351,2025-05-08,App/Login,True,11.1
+2055,4358,2024-07-22,Billing,False,17.4
+2056,4364,2025-12-29,App/Login,True,20.6
+2057,4366,2025-10-05,Sensor Issue,True,5.8
+2058,4369,2025-12-28,Billing,True,14.3
+2059,4370,2025-03-05,Billing,True,14.5
+2060,4370,2025-02-14,Installation Follow-up,True,1.0
+2061,4373,2024-08-13,Connectivity,True,1.0
+2062,4373,2024-07-10,Sensor Issue,False,18.7
+2063,4385,2024-10-17,Installation Follow-up,True,5.5
+2064,4385,2024-11-13,Connectivity,True,33.3
+2065,4386,2025-07-21,False Alarm,True,1.0
+2066,4392,2025-08-22,Connectivity,True,42.6
+2067,4395,2025-01-26,Installation Follow-up,True,14.9
+2068,4395,2025-02-14,Connectivity,True,28.6
+2069,4395,2025-03-05,Billing,True,24.3
+2070,4406,2025-11-24,Installation Follow-up,True,33.7
+2071,4406,2025-11-21,Installation Follow-up,True,25.2
+2072,4406,2025-10-16,False Alarm,True,12.4
+2073,4409,2024-07-30,Sensor Issue,True,22.6
+2074,4412,2025-04-07,False Alarm,False,15.2
+2075,4414,2025-08-03,Installation Follow-up,True,28.1
+2076,4414,2025-06-19,Connectivity,True,22.8
+2077,4414,2025-06-08,False Alarm,False,1.0
+2078,4414,2025-06-12,Connectivity,True,19.4
+2079,4415,2025-01-22,App/Login,True,22.2
+2080,4415,2024-12-28,False Alarm,True,13.3
+2081,4415,2024-12-30,Installation Follow-up,True,16.5
+2082,4416,2024-12-24,Installation Follow-up,True,11.2
+2083,4416,2024-12-16,Sensor Issue,True,39.5
+2084,4420,2024-03-23,App/Login,True,37.8
+2085,4421,2025-07-29,App/Login,True,19.2
+2086,4421,2025-08-05,Installation Follow-up,True,23.3
+2087,4422,2026-01-25,App/Login,True,23.9
+2088,4422,2026-02-23,False Alarm,True,5.2
+2089,4423,2025-08-12,App/Login,True,10.0
+2090,4423,2025-08-29,Billing,True,20.6
+2091,4427,2024-07-31,False Alarm,True,30.6
+2092,4427,2024-08-12,Connectivity,True,9.6
+2093,4427,2024-08-20,App/Login,True,27.5
+2094,4428,2025-01-04,App/Login,True,47.1
+2095,4431,2025-11-10,Installation Follow-up,False,28.2
+2096,4431,2025-11-06,Sensor Issue,True,14.5
+2097,4431,2025-12-20,Connectivity,True,22.1
+2098,4440,2024-08-21,False Alarm,True,22.8
+2099,4440,2024-10-03,Sensor Issue,True,32.7
+2100,4441,2024-09-09,False Alarm,True,27.6
+2101,4443,2025-05-27,False Alarm,True,16.4
+2102,4446,2024-11-10,Sensor Issue,True,22.0
+2103,4447,2024-09-21,Sensor Issue,True,33.7
+2104,4453,2025-01-21,Installation Follow-up,True,1.0
+2105,4453,2025-01-31,Installation Follow-up,True,12.0
+2106,4454,2025-07-01,Installation Follow-up,True,20.6
+2107,4454,2025-06-02,False Alarm,True,9.5
+2108,4457,2025-04-05,Connectivity,True,6.5
+2109,4463,2025-04-16,False Alarm,True,15.2
+2110,4465,2024-11-30,Sensor Issue,False,8.0
+2111,4469,2025-11-07,Sensor Issue,True,18.5
+2112,4469,2025-10-14,Billing,True,20.4
+2113,4471,2024-11-07,Billing,True,11.7
+2114,4471,2024-10-30,Sensor Issue,True,2.1
+2115,4475,2025-10-12,Connectivity,True,11.2
+2116,4480,2025-02-04,Connectivity,True,19.0
+2117,4483,2025-09-15,False Alarm,True,6.5
+2118,4485,2024-12-19,False Alarm,True,14.7
+2119,4485,2024-12-14,Sensor Issue,True,22.5
+2120,4485,2025-01-02,Connectivity,True,24.0
+2121,4485,2025-01-10,False Alarm,True,10.0
+2122,4495,2024-08-29,Installation Follow-up,True,6.4
+2123,4495,2024-09-20,App/Login,True,33.2
+2124,4498,2024-11-11,Installation Follow-up,True,21.0
+2125,4498,2024-10-19,Sensor Issue,True,24.3
+2126,4499,2024-07-29,Sensor Issue,True,15.9
+2127,4500,2024-10-02,Connectivity,True,8.4
+2128,4503,2026-02-26,App/Login,True,9.9
+2129,4507,2024-09-26,Installation Follow-up,True,3.8
+2130,4514,2025-11-22,False Alarm,True,3.1
+2131,4517,2024-10-13,App/Login,True,13.1
+2132,4523,2025-02-19,Billing,True,21.5
+2133,4523,2025-02-19,App/Login,False,12.8
+2134,4525,2025-08-30,Sensor Issue,True,28.1
+2135,4526,2025-01-16,Installation Follow-up,True,10.3
+2136,4527,2024-01-14,Sensor Issue,False,11.2
+2137,4527,2024-01-31,False Alarm,True,29.8
+2138,4531,2024-03-07,Installation Follow-up,True,6.1
+2139,4533,2025-06-23,App/Login,True,25.0
+2140,4533,2025-06-23,App/Login,False,20.0
+2141,4533,2025-07-17,False Alarm,True,1.0
+2142,4533,2025-07-19,False Alarm,True,9.4
+2143,4534,2025-07-12,False Alarm,True,26.9
+2144,4534,2025-08-25,False Alarm,True,12.9
+2145,4534,2025-07-27,App/Login,True,23.0
+2146,4534,2025-08-12,Sensor Issue,True,24.3
+2147,4535,2024-02-25,False Alarm,True,16.2
+2148,4535,2024-02-25,App/Login,True,1.0
+2149,4542,2025-05-23,Sensor Issue,False,24.0
+2150,4543,2025-11-17,Installation Follow-up,True,17.5
+2151,4543,2025-12-14,False Alarm,True,26.1
+2152,4543,2025-12-04,False Alarm,True,4.1
+2153,4543,2025-12-12,Connectivity,True,20.5
+2154,4544,2025-05-19,Connectivity,True,24.4
+2155,4544,2025-04-30,Sensor Issue,True,13.7
+2156,4546,2025-07-28,App/Login,True,29.5
+2157,4548,2025-09-11,Connectivity,True,19.4
+2158,4548,2025-10-31,False Alarm,True,23.6
+2159,4556,2024-06-12,False Alarm,True,13.4
+2160,4556,2024-06-18,Connectivity,True,16.8
+2161,4556,2024-06-13,App/Login,True,28.2
+2162,4556,2024-07-08,Installation Follow-up,True,23.7
+2163,4557,2024-06-07,Installation Follow-up,False,10.6
+2164,4557,2024-05-25,App/Login,True,7.1
+2165,4557,2024-05-16,Installation Follow-up,True,24.5
+2166,4558,2025-09-20,Installation Follow-up,True,22.2
+2167,4559,2025-07-16,Installation Follow-up,True,10.3
+2168,4559,2025-08-15,False Alarm,True,20.6
+2169,4567,2025-07-27,False Alarm,True,28.8
+2170,4570,2024-07-08,Connectivity,True,24.1
+2171,4574,2025-11-26,Sensor Issue,True,24.1
+2172,4574,2025-12-02,Billing,False,31.8
+2173,4576,2025-07-30,False Alarm,True,1.3
+2174,4577,2024-04-16,False Alarm,True,20.2
+2175,4577,2024-03-22,Connectivity,True,32.9
+2176,4579,2024-07-23,Installation Follow-up,True,9.7
+2177,4579,2024-08-09,App/Login,True,22.9
+2178,4581,2024-06-08,Installation Follow-up,True,7.6
+2179,4581,2024-07-20,False Alarm,True,20.1
+2180,4581,2024-07-02,Connectivity,True,16.9
+2181,4584,2025-06-27,Installation Follow-up,True,21.9
+2182,4584,2025-07-24,Installation Follow-up,True,15.3
+2183,4587,2024-07-06,Sensor Issue,False,34.1
+2184,4587,2024-07-09,Installation Follow-up,True,25.5
+2185,4587,2024-07-19,False Alarm,True,12.5
+2186,4590,2024-10-02,Connectivity,True,16.9
+2187,4590,2024-08-23,Sensor Issue,True,7.4
+2188,4593,2024-03-15,Connectivity,True,27.7
+2189,4596,2024-03-21,Connectivity,True,22.4
+2190,4596,2024-02-23,Installation Follow-up,True,12.4
+2191,4601,2025-12-24,Connectivity,True,4.7
+2192,4602,2026-01-12,Connectivity,True,15.9
+2193,4603,2024-08-23,Sensor Issue,True,5.7
+2194,4605,2024-06-15,Billing,True,16.0
+2195,4610,2024-12-08,Connectivity,True,11.0
+2196,4610,2024-11-14,False Alarm,True,15.4
+2197,4611,2024-03-14,False Alarm,True,21.1
+2198,4611,2024-04-24,Sensor Issue,True,24.2
+2199,4612,2024-10-15,App/Login,False,20.5
+2200,4615,2025-02-13,Installation Follow-up,True,22.4
+2201,4616,2024-11-27,Billing,True,11.4
+2202,4616,2024-12-09,Sensor Issue,True,17.0
+2203,4620,2025-11-14,App/Login,True,31.5
+2204,4620,2025-11-30,Installation Follow-up,True,26.9
+2205,4620,2025-11-20,Installation Follow-up,True,5.7
+2206,4620,2025-12-13,False Alarm,True,12.8
+2207,4621,2025-05-16,Installation Follow-up,True,13.9
+2208,4623,2025-09-03,Sensor Issue,True,24.5
+2209,4627,2024-01-06,Installation Follow-up,True,23.0
+2210,4633,2024-07-21,Billing,True,20.0
+2211,4641,2025-10-25,Installation Follow-up,True,19.3
+2212,4645,2024-01-26,App/Login,True,23.9
+2213,4645,2024-02-27,App/Login,True,11.6
+2214,4648,2024-03-10,Installation Follow-up,True,19.5
+2215,4649,2024-09-17,App/Login,True,6.3
+2216,4650,2024-08-14,Billing,True,21.3
+2217,4655,2024-04-12,Sensor Issue,True,9.7
+2218,4655,2024-04-18,Connectivity,True,15.5
+2219,4655,2024-04-05,Installation Follow-up,True,3.3
+2220,4657,2024-04-21,Installation Follow-up,False,32.4
+2221,4657,2024-04-12,False Alarm,True,21.8
+2222,4659,2024-11-27,Installation Follow-up,True,19.9
+2223,4665,2024-08-23,App/Login,True,27.6
+2224,4666,2025-09-27,Billing,True,28.6
+2225,4666,2025-10-09,False Alarm,True,12.3
+2226,4666,2025-09-14,Sensor Issue,True,25.8
+2227,4666,2025-08-28,Sensor Issue,True,1.0
+2228,4668,2024-04-12,Installation Follow-up,True,8.0
+2229,4668,2024-05-04,False Alarm,False,3.3
+2230,4670,2024-12-19,Sensor Issue,True,7.8
+2231,4670,2025-01-05,Sensor Issue,True,19.6
+2232,4672,2025-05-30,Connectivity,True,9.0
+2233,4672,2025-05-27,App/Login,True,10.2
+2234,4673,2024-07-01,Sensor Issue,True,18.0
+2235,4673,2024-07-25,Sensor Issue,True,20.9
+2236,4673,2024-07-24,Installation Follow-up,False,10.1
+2237,4674,2025-10-27,Sensor Issue,True,6.6
+2238,4674,2025-11-19,App/Login,True,18.1
+2239,4675,2025-10-08,Connectivity,True,1.0
+2240,4675,2025-09-08,Installation Follow-up,True,3.8
+2241,4675,2025-09-25,Installation Follow-up,True,2.4
+2242,4677,2025-03-04,False Alarm,True,23.3
+2243,4677,2025-03-08,Billing,True,39.1
+2244,4680,2024-03-03,Connectivity,True,9.1
+2245,4682,2024-06-18,Connectivity,True,39.7
+2246,4688,2024-08-24,App/Login,True,13.1
+2247,4703,2025-02-14,App/Login,True,20.5
+2248,4703,2025-02-28,Connectivity,True,4.9
+2249,4704,2025-10-30,Sensor Issue,True,22.7
+2250,4705,2025-08-02,Sensor Issue,True,13.8
+2251,4708,2025-03-07,Connectivity,False,12.2
+2252,4708,2025-02-20,Connectivity,True,8.5
+2253,4708,2025-03-10,Installation Follow-up,True,13.9
+2254,4710,2024-11-24,Connectivity,True,20.7
+2255,4710,2024-11-13,Billing,True,24.8
+2256,4724,2024-03-16,False Alarm,True,17.6
+2257,4724,2024-03-18,Installation Follow-up,True,32.5
+2258,4731,2025-12-07,Connectivity,True,25.7
+2259,4731,2025-12-14,Installation Follow-up,True,25.1
+2260,4732,2025-05-29,Sensor Issue,True,23.1
+2261,4734,2024-08-16,Sensor Issue,True,4.4
+2262,4735,2025-09-02,Sensor Issue,True,11.3
+2263,4735,2025-09-13,False Alarm,True,20.4
+2264,4735,2025-10-03,Billing,True,35.7
+2265,4735,2025-09-15,Sensor Issue,True,12.3
+2266,4744,2024-08-30,App/Login,True,5.0
+2267,4744,2024-09-24,False Alarm,True,5.6
+2268,4744,2024-09-19,False Alarm,True,25.0
+2269,4745,2025-06-26,Billing,True,37.9
+2270,4745,2025-06-03,Sensor Issue,True,19.2
+2271,4745,2025-06-29,Connectivity,True,13.5
+2272,4746,2024-09-30,Installation Follow-up,True,10.6
+2273,4747,2025-08-26,Billing,True,35.6
+2274,4750,2024-11-20,Sensor Issue,True,25.8
+2275,4751,2024-02-12,Installation Follow-up,True,1.0
+2276,4755,2024-07-07,Installation Follow-up,True,18.7
+2277,4755,2024-06-22,False Alarm,True,1.0
+2278,4755,2024-06-05,App/Login,True,16.1
+2279,4765,2024-11-26,False Alarm,True,27.7
+2280,4770,2024-02-29,App/Login,True,18.5
+2281,4776,2024-03-27,Billing,True,20.5
+2282,4776,2024-03-14,Sensor Issue,True,27.3
+2283,4785,2025-10-21,False Alarm,True,15.6
+2284,4785,2025-09-19,Sensor Issue,True,14.7
+2285,4789,2024-08-29,Connectivity,True,10.0
+2286,4790,2025-04-07,Sensor Issue,True,27.6
+2287,4790,2025-04-03,False Alarm,True,27.2
+2288,4790,2025-04-01,False Alarm,True,22.3
+2289,4790,2025-03-14,False Alarm,True,1.0
+2290,4791,2024-07-15,App/Login,False,20.7
+2291,4792,2026-02-08,Sensor Issue,True,20.6
+2292,4792,2026-01-30,False Alarm,True,20.3
+2293,4793,2025-12-30,False Alarm,True,29.6
+2294,4793,2026-01-03,App/Login,True,26.9
+2295,4795,2024-12-13,App/Login,True,36.5
+2296,4795,2024-10-31,Installation Follow-up,True,22.0
+2297,4796,2024-07-11,False Alarm,True,7.3
+2298,4799,2024-11-11,False Alarm,False,19.1
+2299,4800,2025-04-09,Sensor Issue,True,24.6
+2300,4803,2024-07-28,False Alarm,True,17.4
+2301,4808,2025-10-29,Billing,True,33.9
+2302,4817,2025-11-11,Sensor Issue,True,16.6
+2303,4817,2025-10-25,Sensor Issue,True,16.0
+2304,4817,2025-09-30,Sensor Issue,True,17.1
+2305,4823,2025-10-27,Sensor Issue,True,21.4
+2306,4823,2025-12-20,Sensor Issue,True,28.3
+2307,4832,2024-03-21,Installation Follow-up,True,18.7
+2308,4832,2024-05-05,Connectivity,True,26.8
+2309,4833,2024-10-27,False Alarm,True,12.9
+2310,4835,2025-12-15,False Alarm,True,5.5
+2311,4839,2025-09-18,Sensor Issue,True,28.0
+2312,4839,2025-10-02,Sensor Issue,True,34.3
+2313,4842,2024-05-29,Connectivity,True,24.5
+2314,4842,2024-04-26,App/Login,False,23.8
+2315,4844,2024-06-27,Sensor Issue,True,20.4
+2316,4859,2024-08-18,App/Login,True,3.1
+2317,4863,2025-10-20,Sensor Issue,True,14.0
+2318,4863,2025-11-17,False Alarm,True,8.3
+2319,4865,2025-10-11,Sensor Issue,True,8.5
+2320,4872,2026-01-05,App/Login,True,8.8
+2321,4872,2025-12-14,Installation Follow-up,True,14.7
+2322,4872,2026-01-07,False Alarm,False,4.8
+2323,4873,2024-02-14,Installation Follow-up,True,17.9
+2324,4874,2025-03-25,Connectivity,True,8.2
+2325,4874,2025-04-08,Connectivity,True,5.0
+2326,4877,2024-12-07,Installation Follow-up,True,9.3
+2327,4880,2025-07-21,Sensor Issue,True,26.1
+2328,4880,2025-07-06,Billing,True,11.4
+2329,4883,2025-01-12,Billing,True,5.8
+2330,4885,2024-01-17,Sensor Issue,True,25.6
+2331,4886,2024-07-23,App/Login,True,28.2
+2332,4886,2024-07-25,App/Login,True,11.8
+2333,4886,2024-06-26,App/Login,True,19.5
+2334,4889,2024-09-22,Connectivity,True,13.7
+2335,4889,2024-09-12,Sensor Issue,True,16.6
+2336,4889,2024-09-21,Sensor Issue,True,21.3
+2337,4890,2025-02-15,False Alarm,True,22.2
+2338,4891,2025-09-24,Connectivity,True,22.0
+2339,4891,2025-09-30,Sensor Issue,True,25.7
+2340,4891,2025-09-09,False Alarm,True,28.7
+2341,4899,2025-07-10,Sensor Issue,True,32.6
+2342,4899,2025-07-21,False Alarm,True,9.5
+2343,4899,2025-08-04,Installation Follow-up,True,36.0
+2344,4900,2025-04-29,App/Login,True,15.3
+2345,4900,2025-04-22,Connectivity,True,24.0
+2346,4906,2025-04-22,Connectivity,True,30.7
+2347,4915,2025-08-12,Connectivity,True,23.8
+2348,4915,2025-07-24,False Alarm,True,16.5
+2349,4916,2024-05-04,Connectivity,True,24.5
+2350,4916,2024-04-22,Sensor Issue,True,3.5
+2351,4916,2024-04-24,Sensor Issue,True,25.5
+2352,4920,2025-01-26,Billing,True,20.6
+2353,4920,2025-01-28,Installation Follow-up,True,23.1
+2354,4921,2026-01-18,False Alarm,True,25.6
+2355,4921,2025-12-17,Connectivity,True,28.4
+2356,4925,2024-09-03,Installation Follow-up,True,25.0
+2357,4925,2024-10-12,App/Login,True,3.3
+2358,4929,2024-07-07,Connectivity,True,7.9
+2359,4931,2024-03-07,Sensor Issue,True,4.8
+2360,4931,2024-03-11,Installation Follow-up,True,12.1
+2361,4933,2025-11-04,False Alarm,True,4.4
+2362,4934,2025-10-26,Billing,True,19.2
+2363,4934,2025-09-26,Billing,True,15.2
+2364,4940,2024-09-15,False Alarm,True,27.2
+2365,4940,2024-10-25,App/Login,True,14.8
+2366,4942,2024-12-01,Connectivity,True,1.8
+2367,4946,2025-07-29,Installation Follow-up,True,19.0
+2368,4946,2025-08-03,False Alarm,True,18.5
+2369,4951,2024-09-11,Installation Follow-up,True,27.1
+2370,4953,2025-08-11,Installation Follow-up,True,12.4
+2371,4953,2025-08-24,Billing,True,22.5
+2372,4954,2024-05-16,App/Login,True,18.6
+2373,4954,2024-04-27,Connectivity,True,25.2
+2374,4954,2024-06-08,Sensor Issue,True,20.9
+2375,4957,2024-06-24,App/Login,True,26.8
+2376,4957,2024-06-23,Sensor Issue,True,23.1
+2377,4962,2025-01-31,Installation Follow-up,True,15.4
+2378,4962,2025-01-04,Installation Follow-up,True,20.8
+2379,4962,2025-02-06,Installation Follow-up,True,13.9
+2380,4962,2025-01-15,App/Login,True,19.5
+2381,4963,2026-01-17,Installation Follow-up,True,2.8
+2382,4963,2026-02-01,Sensor Issue,False,21.5
+2383,4963,2026-01-08,Installation Follow-up,True,31.6
+2384,4966,2024-04-03,Sensor Issue,True,20.6
+2385,4966,2024-05-11,Installation Follow-up,True,20.9
+2386,4967,2024-07-30,Installation Follow-up,True,10.7
+2387,4967,2024-08-02,Sensor Issue,True,15.4
+2388,4968,2024-09-07,Billing,True,2.8
+2389,4968,2024-10-01,Installation Follow-up,True,25.5
+2390,4968,2024-10-29,Connectivity,True,18.4
+2391,4968,2024-09-18,Installation Follow-up,True,17.8
+2392,4970,2025-08-29,False Alarm,True,1.0
+2393,4970,2025-09-20,Installation Follow-up,True,22.3
+2394,4972,2024-11-04,App/Login,True,23.9
+2395,4972,2024-11-27,Sensor Issue,False,11.2
+2396,4972,2024-11-11,False Alarm,True,26.2
+2397,4984,2024-10-30,Sensor Issue,True,15.4
+2398,4985,2024-07-04,App/Login,False,13.2
+2399,4990,2025-12-05,Billing,True,11.6
+2400,4990,2025-12-05,Installation Follow-up,True,28.4
+2401,4990,2025-10-20,App/Login,True,20.3
+2402,4994,2025-04-05,Sensor Issue,True,29.8
+2403,4994,2025-02-23,False Alarm,True,27.1
+2404,4996,2024-06-14,App/Login,True,10.6
