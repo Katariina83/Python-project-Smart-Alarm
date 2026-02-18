@@ -7,7 +7,9 @@
 
 /* ============================================================
    01) DATA VALIDATION – Table Row Counts
-   Purpose: Validate dataset integrity
+   Purpose: Validate dataset integrity. Counts rows on each table
+   (customers, subscriptions, installations, tickets, upsells, payments).
+   The reason for this query to work as a “sanity check” before analysis.
    ============================================================ */
 
 SELECT 'customers' AS table_name, COUNT(*) AS rows FROM customers
@@ -21,7 +23,8 @@ UNION ALL SELECT 'payments', COUNT(*) FROM payments;
 
 /* ============================================================
    02) EXECUTIVE KPI SNAPSHOT
-   Purpose: High-level business overview
+   Purpose: High-level business overview. A quick overview of
+   the business on one row.
    ============================================================ */
 
 WITH churn_rate AS (
@@ -66,7 +69,9 @@ FROM churn_rate,
 
 /* ============================================================
    03) CHURN RATE BY INSTALLATION DELAY BUCKET
-   Purpose: Identify operational churn drivers
+   Purpose: Identify operational churn drivers. An “operational driver
+   analysis, which tells if there is delays on delivery or install 
+   processes, that will show as churns.
    ============================================================ */
 
 WITH delay_bucket AS (
