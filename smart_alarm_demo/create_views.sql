@@ -143,5 +143,12 @@ LEFT JOIN ch
     ON ch.year_month = pay.year_month
 ;
 
-SELECT *
-FROM v_monthly_kpis;
+-- Running files and  saving as csv.files 
+--SELECT *
+--FROM v_monthly_kpis;
+--SELECT *
+--FROM v_customer_base;
+--SELECT *
+--FROM v_payments_enriched;
+--SELECT *
+--FROM v_churn_drivers;
